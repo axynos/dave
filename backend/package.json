@@ -1,0 +1,27 @@
+{
+  "name": "dave-backend",
+  "version": "1.0.0",
+  "main": "./build/index.js",
+  "author": "Silver Sten Kruus",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "yarn run build && micro",
+    "dev": "yarn run build && concurrently \"yarn run build:watch\" \"micro-dev\"",
+    "dev:temp": "yarn run build && micro-dev",
+    "build": "rimraf build && ncc build src/sync.ts -o build --minify --v8-cache",
+    "build:watch": "ncc build src/sync.ts -o build --watch"
+  },
+  "dependencies": {
+    "@types/micro": "^7.3.6",
+    "micro": "^9.3.4"
+  },
+  "devDependencies": {
+    "@tsconfig/node14": "^1.0.1",
+    "@vercel/ncc": "0.28.4",
+    "concurrently": "^6.2.1",
+    "micro-dev": "^3.0.0",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.3.5"
+  }
+}

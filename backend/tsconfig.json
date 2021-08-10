@@ -1,0 +1,18 @@
+{
+  "extends": "@tsconfig/node14/tsconfig.json",
+
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": true,
+    "alwaysStrict": true,
+    "resolveJsonModule": true,
+    "noFallthroughCasesInSwitch": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "baseUrl": "./src",
+    "moduleResolution": "node"
+  },
+
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "build"]
+}
