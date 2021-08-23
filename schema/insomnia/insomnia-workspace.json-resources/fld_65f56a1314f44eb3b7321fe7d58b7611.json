@@ -1,0 +1,12 @@
+{
+  "_id": "fld_65f56a1314f44eb3b7321fe7d58b7611",
+  "parentId": "wrk_351457423f39412e95134398d829e64a",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "name": "Academic Year",
+  "description": "",
+  "environment": {},
+  "environmentPropertyOrder": null,
+  "metaSortKey": -1629676356458,
+  "_type": "request_group"
+}

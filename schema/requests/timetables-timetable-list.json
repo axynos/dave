@@ -1,0 +1,803 @@
+[ {
+  "uuid" : "94bcf476dcd2b29392db62f9f5d4bc80",
+  "last_update" : "2021-04-28T11:30:37",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "en" : "mag: GEM Erasmus+",
+      "et" : "mag: GEM Erasmus+"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "8b0e93d2562c786739e93edbfca66d48",
+  "last_update" : "2021-04-30T12:28:26",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "mag: keskkonnatehnoloogia 2. a (ökotehnoloogia ja keskkonnaseire)"
+    },
+    "notes" : {
+      "et" : "Aine LTOM.02.047 Aineringed ja energiavood asenduseks on tunniplaanis aine LTOM.02.006 Energiavood ja aineringed."
+    }
+  }
+}, {
+  "uuid" : "3b012acd86f90364ddad93df5503c007",
+  "last_update" : "2021-04-28T18:51:22",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: geograafia 3.a"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "0c4e500b332a0e3b5e0ade6c02c0f38c",
+  "last_update" : "2021-04-28T18:53:43",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "mag: GG inimgeograafia ja reg. planeerimine 1.aasta"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "2193debc5537d0943982272e4b4b0668",
+  "last_update" : "2021-04-30T12:21:29",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "mag: geoloogia 2. aasta"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "2bb3ebfd581ede1f5ff4caad7b19530b",
+  "last_update" : "2021-04-30T10:47:51",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "en" : "mag: Geoinformatics for Urbanised Society I",
+      "et" : "mag: linnastunud ühiskonna geoinformaatika 1.a"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "1f5e2cb0ff6afe90e0b3890998853856",
+  "last_update" : "2021-04-28T13:50:59",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "mag: GG loodusgeograafia 2.aasta"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "0ab2570b12eaea9e4589d53093b80848",
+  "last_update" : "2021-04-28T18:53:32",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "mag: GG geoinformaatika ja kartograafia 1.aasta"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "266279c5c547b0047acff313039a52d1",
+  "last_update" : "2021-04-30T10:48:19",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "en" : "mag: Geoinformatics for Urbanised Society II",
+      "et" : "mag: linnastunud ühiskonna geoinformaatika 2.a"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "d6ebec2208a6b0e1768e0f32013494cc",
+  "last_update" : "2021-04-30T12:19:49",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: geoloogia ja keskkonnatehnoloogia 2.a (gl)"
+    },
+    "notes" : {
+      "et" : "geoloogia suund"
+    }
+  }
+}, {
+  "uuid" : "45ebd4f7050e907803550a826c0201cf",
+  "last_update" : "2021-04-30T12:20:48",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: geoloogia ja keskkonnatehnoloogia 3.a (gl)"
+    },
+    "notes" : {
+      "et" : "geoloogia suund"
+    }
+  }
+}, {
+  "uuid" : "0acfca52eec674c1d7021999a8d12600",
+  "last_update" : "2021-08-17T11:57:39",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "TK geograafiaõpetaja lisaeriala täiendkoolitus"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "5b76741740fd89de771d2125e63cb3a6",
+  "last_update" : "2021-04-28T11:08:01",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: geograafia 2.a"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "04a89b74adeab1270ff2c7df3590b4f9",
+  "last_update" : "2021-04-30T10:47:05",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: geograafia 1.a"
+    },
+    "notes" : { }
+  }
+}, {
+  "uuid" : "14e0baae59b50b1facb96de3e228bd05",
+  "last_update" : "2021-05-21T14:32:36",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "en" : "mag: Environmental Governance ",
+      "et" : "mag: keskkonnajuhtimine 1.a. TÜ ained"
+    },
+    "notes" : {
+      "et" : "UT courses"
+    }
+  }
+}, {
+  "uuid" : "03b582d8298d216c8cfd68059dfe1d6f",
+  "last_update" : "2021-04-30T12:21:11",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: geoloogia ja keskkonnatehnoloogia 3.a (kkt)"
+    },
+    "notes" : {
+      "et" : "keskkonnatehnoloogia suund"
+    }
+  }
+}, {
+  "uuid" : "daf0969226ee639745f68a9a21794c70",
+  "last_update" : "2021-04-30T12:28:21",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "mag: keskkonnatehnoloogia 2. a (jäätmekäitlus ja jäätmete parendamine)"
+    },
+    "notes" : {
+      "et" : "Aine LTOM.02.047 Aineringed ja energiavood asenduseks on tunniplaanis aine LTOM.02.006 Energiavood ja aineringed."
+    }
+  }
+}, {
+  "uuid" : "e216a8b1cafa7a0faf3687671d9e72e1",
+  "last_update" : "2021-04-28T12:36:28",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: füüsika, keemia ja materjaliteadus 1.a"
+    },
+    "notes" : {
+      "et" : "ühisõppekava"
+    }
+  }
+}, {
+  "uuid" : "753ed2da1b21cf91cd83ee7e1bbcc5cf",
+  "last_update" : "2021-04-30T12:19:41",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: geoloogia ja keskkonnatehnoloogia 1.a"
+    },
+    "notes" : {
+      "et" : "Valida tuleb LOKT.07.010 \"Keemia alused\" (6 EAP) või LOKT.01.058 \"Üldine keemia\" (3 EAP) ja LOKT.01.059 \"Üldkeemia praktikum loodusteaduste suunale\" (3 EAP) vahel."
+    }
+  }
+}, {
+  "uuid" : "16c82e2234289ae1e65d2d2a80ea0c3f",
+  "last_update" : "2021-04-30T12:20:13",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "et" : "bak: geoloogia ja keskkonnatehnoloogia 2.a (kkt)"
+    },
+    "notes" : {
+      "et" : "keskkonnatehnoloogia suund"
+    }
+  }
+} ]

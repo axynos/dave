@@ -1,0 +1,43 @@
+{
+  "_id": "req_7583d0f50e32464eb4fe043457b3569f",
+  "parentId": "fld_ca86e758cb604efda361da63f35d5140",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "url": "https://ois2.ut.ee/api/curricula",
+  "name": "Curricula",
+  "description": "",
+  "method": "POST",
+  "body": {
+    "mimeType": "application/json",
+    "text": [
+      "{",
+      "\t\"filter\": {",
+      "\t\t\"academic_year\": \"2020\",",
+      "\t\t\"semester\": \"autumn\",",
+      "\t\t\"timetable_type\": 1,",
+      "\t\t\"state\": {",
+      "\t\t\t\"code\": \"confirmed\"",
+      "\t\t}",
+      "\t}",
+      "}"
+    ]
+  },
+  "parameters": [],
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json",
+      "id": "pair_5b1dc917ae334c97a9a5b1b3c9d425ea"
+    }
+  ],
+  "authentication": {},
+  "metaSortKey": -1625641151942.5,
+  "isPrivate": false,
+  "settingStoreCookies": true,
+  "settingSendCookies": true,
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingRebuildPath": true,
+  "settingFollowRedirects": "global",
+  "_type": "request"
+}

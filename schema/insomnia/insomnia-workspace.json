@@ -1,0 +1,304 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_date": "2020-01-01T00:00:00.000Z",
+  "__export_source": "insomnia.desktop.app:v2021.4.1",
+  "resources": [
+    {
+      "_id": "wrk_351457423f39412e95134398d829e64a",
+      "parentId": null,
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "name": "ÕIS2 API",
+      "description": "",
+      "scope": "collection",
+      "_type": "workspace"
+    },
+    {
+      "_id": "fld_1d4e9a858b0f40c6bff01cedf124fe7b",
+      "parentId": "wrk_351457423f39412e95134398d829e64a",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "name": "Structural Units",
+      "description": "",
+      "environment": {},
+      "environmentPropertyOrder": null,
+      "metaSortKey": -1629676370138,
+      "_type": "request_group"
+    },
+    {
+      "_id": "fld_232f22f9a4464be1a314febc2c637700",
+      "parentId": "wrk_351457423f39412e95134398d829e64a",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "name": "Timetables",
+      "description": "",
+      "environment": {},
+      "environmentPropertyOrder": null,
+      "metaSortKey": -1629676430149,
+      "_type": "request_group"
+    },
+    {
+      "_id": "fld_65f56a1314f44eb3b7321fe7d58b7611",
+      "parentId": "wrk_351457423f39412e95134398d829e64a",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "name": "Academic Year",
+      "description": "",
+      "environment": {},
+      "environmentPropertyOrder": null,
+      "metaSortKey": -1629676356458,
+      "_type": "request_group"
+    },
+    {
+      "_id": "fld_c9f0d392296049178f283952800d3139",
+      "parentId": "wrk_351457423f39412e95134398d829e64a",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "name": "Courses",
+      "description": "",
+      "environment": {},
+      "environmentPropertyOrder": null,
+      "metaSortKey": -1629676425005.5,
+      "_type": "request_group"
+    },
+    {
+      "_id": "fld_ca86e758cb604efda361da63f35d5140",
+      "parentId": "wrk_351457423f39412e95134398d829e64a",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "name": "Curricula",
+      "description": "",
+      "environment": {},
+      "environmentPropertyOrder": null,
+      "metaSortKey": -1629676419862,
+      "_type": "request_group"
+    },
+    {
+      "_id": "req_37942438f3c14f019e8260db71b22e79",
+      "parentId": "fld_c9f0d392296049178f283952800d3139",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "url": "https://ois2.ut.ee/api/courses/e57289d4dc7e02ad2ba94c16c91c09e6/versions/latest",
+      "name": "Courses",
+      "description": "",
+      "method": "GET",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{}"
+      },
+      "parameters": [],
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json",
+          "id": "pair_5b1dc917ae334c97a9a5b1b3c9d425ea"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1627049450513.25,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_7583d0f50e32464eb4fe043457b3569f",
+      "parentId": "fld_ca86e758cb604efda361da63f35d5140",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "url": "https://ois2.ut.ee/api/curricula",
+      "name": "Curricula",
+      "description": "",
+      "method": "POST",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n\t\"filter\": {\n\t\t\"academic_year\": \"2020\",\n\t\t\"semester\": \"autumn\",\n\t\t\"timetable_type\": 1,\n\t\t\"state\": {\n\t\t\t\"code\": \"confirmed\"\n\t\t}\n\t}\n}"
+      },
+      "parameters": [],
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json",
+          "id": "pair_5b1dc917ae334c97a9a5b1b3c9d425ea"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1625641151942.5,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_85cf1ae5e2114cffa2feb7946c28981a",
+      "parentId": "fld_65f56a1314f44eb3b7321fe7d58b7611",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "url": "https://ois2.ut.ee/api/academic/year/2019",
+      "name": "Academic Year (Specific Year)",
+      "description": "",
+      "method": "GET",
+      "body": {},
+      "parameters": [],
+      "headers": [],
+      "authentication": {},
+      "metaSortKey": -1623176629393.6875,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_a478281bc41c4d458fd07d902b589adf",
+      "parentId": "fld_65f56a1314f44eb3b7321fe7d58b7611",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "url": "https://ois2.ut.ee/api/academic/year",
+      "name": "Academic Year (Current)",
+      "description": "",
+      "method": "GET",
+      "body": {},
+      "parameters": [],
+      "headers": [],
+      "authentication": {},
+      "metaSortKey": -1623176629443.6875,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_acb756a834924f1ab44db7a8251fd29a",
+      "parentId": "fld_232f22f9a4464be1a314febc2c637700",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "url": "https://ois2.ut.ee/api/timetable/",
+      "name": "Timetables",
+      "description": "",
+      "method": "POST",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n\t\"filter\": {\n\t\t\"academic_year\": \"2021\",\n\t\t\"semester\": \"autumn\",\n\t\t\"timetable_type\": 1,\n\t\t\"structural_units\": [\"LT\"],\n\t\t\"state\": {\n\t\t\t\"code\": \"confirmed\"\n\t\t}\n\t}\n}"
+      },
+      "parameters": [],
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json",
+          "id": "pair_5b1dc917ae334c97a9a5b1b3c9d425ea"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1629676428863.125,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_bb28a8b944424dba835cafaae21d7b33",
+      "parentId": "fld_1d4e9a858b0f40c6bff01cedf124fe7b",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "url": "https://ois2.ut.ee/api/structural-units/academic",
+      "name": "Structural Units",
+      "description": "",
+      "method": "GET",
+      "body": {},
+      "parameters": [],
+      "headers": [],
+      "authentication": {},
+      "metaSortKey": -1624232853371.75,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_f14c647fdda04866a968604816520243",
+      "parentId": "fld_1d4e9a858b0f40c6bff01cedf124fe7b",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "url": "https://ois2.ut.ee/api/structural-units/academic/institutes",
+      "name": "Structural Units (Institutes)",
+      "description": "",
+      "method": "GET",
+      "body": {},
+      "parameters": [],
+      "headers": [],
+      "authentication": {},
+      "metaSortKey": -1624232853321.75,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "jar_5c26b27111476e514de23a328bb6e525496d58c1",
+      "parentId": "wrk_351457423f39412e95134398d829e64a",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "name": "Default Jar",
+      "cookies": [],
+      "_type": "cookie_jar"
+    },
+    {
+      "_id": "spc_befb32e5f25f46438add515dbc8f4c1a",
+      "parentId": "wrk_351457423f39412e95134398d829e64a",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "fileName": "UT Course API",
+      "contents": "",
+      "contentType": "yaml",
+      "_type": "api_spec"
+    },
+    {
+      "_id": "env_5c26b27111476e514de23a328bb6e525496d58c1",
+      "parentId": "wrk_351457423f39412e95134398d829e64a",
+      "modified": 1600000000000,
+      "created": 1600000000000,
+      "name": "Base Environment",
+      "data": {
+        "baseUrl": "https://ois2.ut.ee/api/"
+      },
+      "dataPropertyOrder": {
+        "&": [
+          "baseUrl"
+        ]
+      },
+      "color": null,
+      "isPrivate": false,
+      "metaSortKey": 1628457351117,
+      "_type": "environment"
+    }
+  ]
+}

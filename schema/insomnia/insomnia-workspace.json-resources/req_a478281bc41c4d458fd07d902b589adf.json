@@ -1,0 +1,23 @@
+{
+  "_id": "req_a478281bc41c4d458fd07d902b589adf",
+  "parentId": "fld_65f56a1314f44eb3b7321fe7d58b7611",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "url": "https://ois2.ut.ee/api/academic/year",
+  "name": "Academic Year (Current)",
+  "description": "",
+  "method": "GET",
+  "body": {},
+  "parameters": [],
+  "headers": [],
+  "authentication": {},
+  "metaSortKey": -1623176629443.6875,
+  "isPrivate": false,
+  "settingStoreCookies": true,
+  "settingSendCookies": true,
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingRebuildPath": true,
+  "settingFollowRedirects": "global",
+  "_type": "request"
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "req_acb756a834924f1ab44db7a8251fd29a",
+  "parentId": "fld_232f22f9a4464be1a314febc2c637700",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "url": "https://ois2.ut.ee/api/timetable/",
+  "name": "Timetables",
+  "description": "",
+  "method": "POST",
+  "body": {
+    "mimeType": "application/json",
+    "text": [
+      "{",
+      "\t\"filter\": {",
+      "\t\t\"academic_year\": \"2021\",",
+      "\t\t\"semester\": \"autumn\",",
+      "\t\t\"timetable_type\": 1,",
+      "\t\t\"structural_units\": [\"LT\"],",
+      "\t\t\"state\": {",
+      "\t\t\t\"code\": \"confirmed\"",
+      "\t\t}",
+      "\t}",
+      "}"
+    ]
+  },
+  "parameters": [],
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json",
+      "id": "pair_5b1dc917ae334c97a9a5b1b3c9d425ea"
+    }
+  ],
+  "authentication": {},
+  "metaSortKey": -1629676428863.125,
+  "isPrivate": false,
+  "settingStoreCookies": true,
+  "settingSendCookies": true,
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingRebuildPath": true,
+  "settingFollowRedirects": "global",
+  "_type": "request"
+}

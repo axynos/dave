@@ -1,0 +1,10 @@
+{
+  "_id": "spc_befb32e5f25f46438add515dbc8f4c1a",
+  "parentId": "wrk_351457423f39412e95134398d829e64a",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "fileName": "UT Course API",
+  "contents": "",
+  "contentType": "yaml",
+  "_type": "api_spec"
+}

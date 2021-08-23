@@ -1,0 +1,24 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_date": "2020-01-01T00:00:00.000Z",
+  "__export_source": "insomnia.desktop.app:v2021.4.1",
+  "resources": [
+    "wrk_351457423f39412e95134398d829e64a | ÕIS2 API",
+    "fld_1d4e9a858b0f40c6bff01cedf124fe7b | Structural Units",
+    "fld_232f22f9a4464be1a314febc2c637700 | Timetables",
+    "fld_65f56a1314f44eb3b7321fe7d58b7611 | Academic Year",
+    "fld_c9f0d392296049178f283952800d3139 | Courses",
+    "fld_ca86e758cb604efda361da63f35d5140 | Curricula",
+    "req_37942438f3c14f019e8260db71b22e79 | Courses",
+    "req_7583d0f50e32464eb4fe043457b3569f | Curricula",
+    "req_85cf1ae5e2114cffa2feb7946c28981a | Academic Year (Specific Year)",
+    "req_a478281bc41c4d458fd07d902b589adf | Academic Year (Current)",
+    "req_acb756a834924f1ab44db7a8251fd29a | Timetables",
+    "req_bb28a8b944424dba835cafaae21d7b33 | Structural Units",
+    "req_f14c647fdda04866a968604816520243 | Structural Units (Institutes)",
+    "jar_5c26b27111476e514de23a328bb6e525496d58c1 | Default Jar",
+    "spc_befb32e5f25f46438add515dbc8f4c1a | undefined",
+    "env_5c26b27111476e514de23a328bb6e525496d58c1 | Base Environment"
+  ]
+}

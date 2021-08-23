@@ -1,0 +1,12 @@
+{
+  "_id": "fld_c9f0d392296049178f283952800d3139",
+  "parentId": "wrk_351457423f39412e95134398d829e64a",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "name": "Courses",
+  "description": "",
+  "environment": {},
+  "environmentPropertyOrder": null,
+  "metaSortKey": -1629676425005.5,
+  "_type": "request_group"
+}

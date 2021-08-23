@@ -1,0 +1,23 @@
+{
+  "_id": "req_bb28a8b944424dba835cafaae21d7b33",
+  "parentId": "fld_1d4e9a858b0f40c6bff01cedf124fe7b",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "url": "https://ois2.ut.ee/api/structural-units/academic",
+  "name": "Structural Units",
+  "description": "",
+  "method": "GET",
+  "body": {},
+  "parameters": [],
+  "headers": [],
+  "authentication": {},
+  "metaSortKey": -1624232853371.75,
+  "isPrivate": false,
+  "settingStoreCookies": true,
+  "settingSendCookies": true,
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingRebuildPath": true,
+  "settingFollowRedirects": "global",
+  "_type": "request"
+}

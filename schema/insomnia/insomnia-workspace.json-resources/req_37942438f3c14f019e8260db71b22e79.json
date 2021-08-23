@@ -1,0 +1,34 @@
+{
+  "_id": "req_37942438f3c14f019e8260db71b22e79",
+  "parentId": "fld_c9f0d392296049178f283952800d3139",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "url": "https://ois2.ut.ee/api/courses/e57289d4dc7e02ad2ba94c16c91c09e6/versions/latest",
+  "name": "Courses",
+  "description": "",
+  "method": "GET",
+  "body": {
+    "mimeType": "application/json",
+    "text": [
+      "{}"
+    ]
+  },
+  "parameters": [],
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json",
+      "id": "pair_5b1dc917ae334c97a9a5b1b3c9d425ea"
+    }
+  ],
+  "authentication": {},
+  "metaSortKey": -1627049450513.25,
+  "isPrivate": false,
+  "settingStoreCookies": true,
+  "settingSendCookies": true,
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingRebuildPath": true,
+  "settingFollowRedirects": "global",
+  "_type": "request"
+}

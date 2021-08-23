@@ -1,0 +1,19 @@
+{
+  "_id": "env_5c26b27111476e514de23a328bb6e525496d58c1",
+  "parentId": "wrk_351457423f39412e95134398d829e64a",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "name": "Base Environment",
+  "data": {
+    "baseUrl": "https://ois2.ut.ee/api/"
+  },
+  "dataPropertyOrder": {
+    "&": [
+      "baseUrl"
+    ]
+  },
+  "color": null,
+  "isPrivate": false,
+  "metaSortKey": 1628457351117,
+  "_type": "environment"
+}
