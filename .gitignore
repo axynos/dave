@@ -108,3 +108,8 @@ dist
 
 # Vim session folders
 */**/.undodir/
+**/.undodir
+
+# macOS
+*/**/.DS_Store
+**/.DS_Store
