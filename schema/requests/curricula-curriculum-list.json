@@ -1,0 +1,1001 @@
+[ {
+  "id" : 203,
+  "uuid" : "7048ebcd-61f8-8fb7-d19d-2b5994640569",
+  "code" : "2687",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-05-19T13:58:23",
+  "title" : {
+    "en" : "Orthopaedics",
+    "et" : "Ortopeedia"
+  },
+  "credits" : 300,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 221,
+  "uuid" : "8f08aaa3-494d-7ed9-607e-0a555d20046f",
+  "code" : "2705",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-06-09T09:56:33",
+  "title" : {
+    "en" : "Restorative dentistry",
+    "et" : "Restauratiivne hambaravi"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 481,
+  "uuid" : "bb34858b-e709-94e4-6845-767f661fa1e1",
+  "code" : "80419",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-09-20T13:26:04",
+  "title" : {
+    "en" : "Pharmacy",
+    "et" : "Proviisor"
+  },
+  "credits" : 300,
+  "study_level" : {
+    "code" : "bachelor_master",
+    "et" : "bakalaureuse- ja magistriõppe integreeritud õpe",
+    "en" : "bachelor's and master's integrated studies"
+  }
+}, {
+  "id" : 294,
+  "uuid" : "cc7e8383-7ab6-82fd-3a75-c62073997c85",
+  "code" : "2543",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-09-30T10:51:31",
+  "title" : {
+    "en" : "Estonian and Finno-Ugric Linguistics",
+    "et" : "Eesti ja soome-ugri keeleteadus"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 282,
+  "uuid" : "c95638b9-eab2-47c3-5650-0838d308e990",
+  "code" : "2432",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-02-23T13:45:27",
+  "title" : {
+    "en" : "Literature and Cultural Research",
+    "et" : "Kirjandus ja kultuuriteadused"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 455,
+  "uuid" : "0ed373a4-c586-e233-cd81-1be37035f56e",
+  "code" : "80352",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-01-08T16:52:52",
+  "title" : {
+    "en" : "Literature and Cultural Research",
+    "et" : "Kirjandus ja kultuuriteadused"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 383,
+  "uuid" : "23c6963b-d9fb-59d8-b10b-d7b2281fabcc",
+  "code" : "3141",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-05-19T14:37:47",
+  "title" : {
+    "en" : "Paediatric surgery",
+    "et" : "Lastekirurgia"
+  },
+  "credits" : 300,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 250,
+  "uuid" : "52c81371-67fe-8493-1bcd-720a453ebd63",
+  "code" : "2448",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-09-30T10:25:32",
+  "title" : {
+    "en" : "Psychology",
+    "et" : "Psühholoogia"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 527,
+  "uuid" : "7f5ee401-83af-ca58-a305-777d14e926db",
+  "code" : "122878",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2016-12-29T17:39:05",
+  "title" : {
+    "en" : "Paediatrics",
+    "et" : "Pediaatria"
+  },
+  "credits" : 300,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 564,
+  "uuid" : "179edc21-335f-404a-99da-10286c4edb6a",
+  "code" : "143517",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-10-01T08:12:50",
+  "title" : {
+    "en" : "Excellence in Analytical Chemistry",
+    "et" : "Analüütiline keemia"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 569,
+  "uuid" : "995f2262-9fcc-2b38-dc15-7f49913b8c53",
+  "code" : "146997",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-01-07T15:24:11",
+  "title" : {
+    "en" : "Estonian Native Craft",
+    "et" : "Pärandtehnoloogia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "applied",
+    "et" : "rakenduskõrgharidusõpe",
+    "en" : "professional higher education studies"
+  }
+}, {
+  "id" : 547,
+  "uuid" : "db1e73d8-592e-131b-35ff-69fa5cdce798",
+  "code" : "132017",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2016-12-29T17:39:06",
+  "title" : {
+    "en" : "Laboratory medicine",
+    "et" : "Laboratoorne meditsiin"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 566,
+  "uuid" : "8f68219a-aaaf-b3fa-6261-e51c3c8181c7",
+  "code" : "144919",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-08-25T14:59:06",
+  "title" : {
+    "en" : "Conversion Master in IT",
+    "et" : "Infotehnoloogia mitteinformaatikutele"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 507,
+  "uuid" : "65c666e5-abce-165c-b8c0-98ccbe899282",
+  "code" : "85863",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-06-09T09:48:21",
+  "title" : {
+    "en" : "Medical genetics",
+    "et" : "Meditsiinigeneetika"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 253,
+  "uuid" : "20caeb88-a64e-5d90-7157-bfc379437e1d",
+  "code" : "2444",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-09-21T15:16:40",
+  "title" : {
+    "en" : "Government and Politics",
+    "et" : "Riigiteadused"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 262,
+  "uuid" : "2e3ef51e-ae31-d364-25b0-f4ec97bad45a",
+  "code" : "2574",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-08-27T16:59:13",
+  "title" : {
+    "en" : "Psychology",
+    "et" : "Psühholoogia"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 601,
+  "uuid" : "f00fc0f9-78c5-77aa-8049-f6b436508112",
+  "code" : "205619",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-03-02T09:48:14",
+  "title" : {
+    "en" : "Youth Work ",
+    "et" : "Noorsootöö "
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 211,
+  "uuid" : "75778eb6-d289-467c-26a9-dbc75b88078f",
+  "code" : "2695",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-05-19T14:11:22",
+  "title" : {
+    "en" : "Internal medicine",
+    "et" : "Sisehaigused"
+  },
+  "credits" : 300,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 468,
+  "uuid" : "f1f31996-833c-d130-90e2-9395bbb1be2d",
+  "code" : "80331",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-01-04T15:11:09",
+  "title" : {
+    "en" : "Mathematical Statistics",
+    "et" : "Matemaatiline statistika"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 291,
+  "uuid" : "f6160b10-a13b-bdee-763d-9a1e1b816288",
+  "code" : "2617",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-06-07T09:43:28",
+  "title" : {
+    "en" : "Physiotherapy",
+    "et" : "Füsioteraapia"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 295,
+  "uuid" : "812270c2-0449-53c1-e510-a94a44b71c4d",
+  "code" : "2527",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-10-09T10:22:27",
+  "title" : {
+    "en" : "Teacher of Estonian Language and Literature",
+    "et" : "Eesti keele ja kirjanduse õpetaja"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 361,
+  "uuid" : "20f76914-1f4c-00c3-6591-0e1681f1a173",
+  "code" : "2458",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-01-28T14:48:25",
+  "title" : {
+    "en" : "Law",
+    "et" : "Õigusteadus"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 266,
+  "uuid" : "887bb1d9-ec8a-a4b0-2ba3-f8cd9a62faf2",
+  "code" : "2425",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-08-19T16:50:17",
+  "title" : {
+    "en" : "German Language and Literature",
+    "et" : "Saksa keel ja kirjandus"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 459,
+  "uuid" : "2eee5894-17cf-1c0d-e4ca-eeaf7ffee6eb",
+  "code" : "80345",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-01-06T11:15:19",
+  "title" : {
+    "en" : "Molecular and Cell Biology",
+    "et" : "Molekulaar- ja rakubioloogia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 461,
+  "uuid" : "a216409a-ef9e-8931-c13e-2b6a6b3600e7",
+  "code" : "80349",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-12-01T09:12:57",
+  "title" : {
+    "en" : "Botany and Ecology",
+    "et" : "Botaanika ja ökoloogia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 305,
+  "uuid" : "0b474fd7-c502-8d0c-46a6-75dd1e259f87",
+  "code" : "2437",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-02-26T16:26:04",
+  "title" : {
+    "en" : "Philosophy",
+    "et" : "Filosoofia"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 457,
+  "uuid" : "ac15e6ba-c91c-f17f-337c-95eaf4f50248",
+  "code" : "80346",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-03-25T11:11:02",
+  "title" : {
+    "en" : "Geology",
+    "et" : "Geoloogia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 363,
+  "uuid" : "3025acc1-46b3-9218-e3fb-047b7be9e10c",
+  "code" : "2588",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-05-05T02:05:53",
+  "title" : {
+    "en" : "Law",
+    "et" : "Õigusteadus"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 526,
+  "uuid" : "7228e75c-93bc-74cd-beab-23415ec87943",
+  "code" : "122917",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2016-12-29T17:39:02",
+  "title" : {
+    "en" : "Psychiatry",
+    "et" : "Psühhiaatria"
+  },
+  "credits" : 300,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 463,
+  "uuid" : "574cbcee-1a1d-8347-0773-9aca9268565c",
+  "code" : "80343",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-03-24T13:34:24",
+  "title" : {
+    "en" : "Environmental Technology",
+    "et" : "Keskkonnatehnoloogia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 464,
+  "uuid" : "2efbbaaf-b640-063d-7558-86c9fea369e5",
+  "code" : "80344",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-03-25T11:20:21",
+  "title" : {
+    "en" : "Zoology and Hydrobiology",
+    "et" : "Zooloogia ja hüdrobioloogia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 528,
+  "uuid" : "94f902e9-0965-d194-fdb5-2ae7eaff7217",
+  "code" : "122899",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2016-12-29T17:39:06",
+  "title" : {
+    "en" : "Cardiology",
+    "et" : "Kardioloogia"
+  },
+  "credits" : 300,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 529,
+  "uuid" : "d5a3a4c2-d0eb-04e6-ae48-d10540fdc281",
+  "code" : "122897",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2016-12-29T17:39:06",
+  "title" : {
+    "en" : "Radiology",
+    "et" : "Radioloogia"
+  },
+  "credits" : 300,
+  "study_level" : {
+    "code" : "residency",
+    "et" : "residentuur",
+    "en" : "residency"
+  }
+}, {
+  "id" : 469,
+  "uuid" : "26d4888f-fcaa-0fb7-435d-ce8c755c4ccf",
+  "code" : "80355",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-02-26T16:27:41",
+  "title" : {
+    "en" : "Philosophy",
+    "et" : "Filosoofia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 344,
+  "uuid" : "f2cb0339-9a41-5d2e-e973-e266240c81f5",
+  "code" : "2498",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-04-15T11:15:15",
+  "title" : {
+    "en" : "Teacher of Several Subjects in Basic School",
+    "et" : "Põhikooli mitme aine õpetaja"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 315,
+  "uuid" : "072d6d65-7697-cbd5-ab22-c0789cd34f9f",
+  "code" : "2427",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-10-28T11:07:41",
+  "title" : {
+    "en" : "Russian and Slavonic Philology",
+    "et" : "Vene ja slaavi filoloogia"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 319,
+  "uuid" : "443a697f-e507-7246-0672-701920c9cf9d",
+  "code" : "2474",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-01-04T15:04:51",
+  "title" : {
+    "en" : "Mathematical Statistics",
+    "et" : "Matemaatiline statistika"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 471,
+  "uuid" : "746c1e29-59c2-093f-a54a-1fd0f1cfd9b9",
+  "code" : "80360",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2016-12-29T17:39:05",
+  "title" : {
+    "en" : "Medicine",
+    "et" : "Arstiteadus"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 576,
+  "uuid" : "ab92e7b7-f9f2-ee6f-3e96-f5c7fbfd4c12",
+  "code" : "162737",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-05-24T10:57:09",
+  "title" : {
+    "en" : "Educational Technology",
+    "et" : "Haridustehnoloogia"
+  },
+  "credits" : 60,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 544,
+  "uuid" : "f02fdc1c-3b2e-839f-2b48-33357e62c8c3",
+  "code" : "125597",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-07-09T10:30:32",
+  "title" : {
+    "en" : "Philosophy",
+    "et" : "Filosoofia"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 440,
+  "uuid" : "ef72f2ec-218f-fd6f-3ed5-6d514d679311",
+  "code" : "80287",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-11-03T13:29:06",
+  "title" : {
+    "en" : "Culture Management",
+    "et" : "Kultuurikorraldus"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "applied",
+    "et" : "rakenduskõrgharidusõpe",
+    "en" : "professional higher education studies"
+  }
+}, {
+  "id" : 441,
+  "uuid" : "cf19684d-8aaf-376f-38ae-b3e7ff0971cd",
+  "code" : "80284",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-10-27T15:15:18",
+  "title" : {
+    "en" : "Community Education and Hobby Activity",
+    "et" : "Kogukonnaharidus ja huvitegevus"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "applied",
+    "et" : "rakenduskõrgharidusõpe",
+    "en" : "professional higher education studies"
+  }
+}, {
+  "id" : 476,
+  "uuid" : "362d8316-6844-4376-9755-03aedc7b8dcb",
+  "code" : "80353",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-10-28T12:00:34",
+  "title" : {
+    "en" : "Germanic and Romance Languages and Literatures",
+    "et" : "Germaani-romaani filoloogia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+}, {
+  "id" : 292,
+  "uuid" : "667d1b36-de71-2f22-4ef8-9834007bdc36",
+  "code" : "2640",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-06-04T15:21:46",
+  "title" : {
+    "en" : "Physical Education and Sport",
+    "et" : "Kehaline kasvatus ja sport"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 581,
+  "uuid" : "f72a7a90-14ff-7135-9170-466cdcce1972",
+  "code" : "194377",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-12-09T13:18:31",
+  "title" : {
+    "en" : "Change Management in Society",
+    "et" : "Muutuste juhtimine ühiskonnas"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 518,
+  "uuid" : "66e57d5a-7466-625d-c500-43b316bc9316",
+  "code" : "108444",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-06-02T15:39:56",
+  "title" : {
+    "en" : "Service Design and Management",
+    "et" : "Teenuste disain ja juhtimine"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 552,
+  "uuid" : "d47ca87e-7091-c690-4368-a292c2bd0de2",
+  "code" : "136617",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-09-29T11:32:03",
+  "title" : {
+    "en" : "Geology and Environmental Technology",
+    "et" : "Geoloogia ja keskkonnatehnoloogia"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 256,
+  "uuid" : "e6adeb15-b293-b2dd-7d63-d704fad20352",
+  "code" : "2433",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-01-19T14:21:19",
+  "title" : {
+    "en" : "Semiotics and Culture Studies",
+    "et" : "Semiootika ja kultuuriteooria"
+  },
+  "credits" : 180,
+  "study_level" : {
+    "code" : "bachelor",
+    "et" : "bakalaureuseõpe",
+    "en" : "bachelor's studies"
+  }
+}, {
+  "id" : 385,
+  "uuid" : "4e0645ba-b11d-a2d1-ca12-76d51ee9af03",
+  "code" : "2619",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-06-16T10:26:26",
+  "title" : {
+    "en" : "Nursing Science",
+    "et" : "Õendusteadus"
+  },
+  "credits" : 120,
+  "study_level" : {
+    "code" : "master",
+    "et" : "magistriõpe",
+    "en" : "master's studies"
+  }
+}, {
+  "id" : 483,
+  "uuid" : "6d213d72-032b-2f69-4acb-56091671ec43",
+  "code" : "80328",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-12-09T12:17:01",
+  "title" : {
+    "en" : "Political Science",
+    "et" : "Politoloogia"
+  },
+  "credits" : 240,
+  "study_level" : {
+    "code" : "doctoral",
+    "et" : "doktoriõpe",
+    "en" : "doctoral studies"
+  }
+} ]

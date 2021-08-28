@@ -1,0 +1,676 @@
+[ {
+  "code" : "HV",
+  "name" : {
+    "en" : "Faculty of Arts and Humanities",
+    "et" : "humanitaarteaduste ja kunstide valdkond"
+  },
+  "level" : 1,
+  "academic" : true,
+  "supports_continuous_learning" : true
+}, {
+  "code" : "HVAJ",
+  "name" : {
+    "en" : "Institute of History and Archaeology",
+    "et" : "ajaloo ja arheoloogia instituut"
+  },
+  "email" : "ajalugu@ut.ee",
+  "phone" : "+372 737 5651",
+  "webpage_url" : "http://flaj.ut.ee",
+  "address" : "Jakobi 2, 51005,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Jakobi 2",
+  "zip" : "51005",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "HV"
+}, {
+  "code" : "HVEE",
+  "name" : {
+    "en" : "Institute of Estonian and General Linguistics",
+    "et" : "eesti ja üldkeeleteaduse instituut"
+  },
+  "phone" : "+372 737 5221",
+  "webpage_url" : "http://www.keel.ut.ee",
+  "address" : "Jakobi 2, IV korrus, 51005,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Jakobi 2, IV korrus",
+  "zip" : "51005",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "HV"
+}, {
+  "code" : "HVFI",
+  "name" : {
+    "en" : "Institute of Philosophy and Semiotics",
+    "et" : "filosoofia ja semiootika instituut"
+  },
+  "phone" : "3727375314",
+  "webpage_url" : "http://www.flfi.ut.ee",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "HV"
+}, {
+  "code" : "HVHV",
+  "name" : {
+    "en" : "Dean's Office, Faculty of Arts and Humanities",
+    "et" : "humanitaarteaduste ja kunstide valdkonna dekanaat"
+  },
+  "email" : "hv.dekanaat@ut.ee",
+  "phone" : "3727375341",
+  "webpage_url" : "http://humanitaarteadused.ut.ee",
+  "address" : "Jakobi 2, r 116-121\n51005 Tartu linn, \nTartu linn, Tartumaa \nEST",
+  "city" : "Tartu linn",
+  "street" : "Jakobi 2, r 116-121",
+  "zip" : "51005",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "HV"
+}, {
+  "code" : "HVKU",
+  "name" : {
+    "en" : "Institute of Cultural Research",
+    "et" : "kultuuriteaduste instituut"
+  },
+  "email" : "hille.roots@ut.ee",
+  "phone" : "+372 737 5223",
+  "webpage_url" : "http://www.flku.ut.ee",
+  "address" : "Ülikooli 16, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Ülikooli 16",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "HV"
+}, {
+  "code" : "HVLC",
+  "name" : {
+    "en" : "College of Foreign Languages and Cultures",
+    "et" : "maailma keelte ja kultuuride kolledž"
+  },
+  "email" : "keeled@ut.ee",
+  "webpage_url" : "http://www.maailmakeeled.ut.ee",
+  "address" : "J. Liivi 4, 50409,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "J. Liivi 4",
+  "zip" : "50409",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "HV"
+}, {
+  "code" : "HVUS",
+  "name" : {
+    "en" : "School of Theology and Religious Studies",
+    "et" : "usuteaduskond"
+  },
+  "email" : "us@ut.ee",
+  "phone" : "+372 737 5300",
+  "webpage_url" : "http://www.us.ut.ee",
+  "address" : "Ülikooli 18, 50090,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Ülikooli 18",
+  "zip" : "50090",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "HV"
+}, {
+  "code" : "HVVK",
+  "name" : {
+    "en" : "Viljandi Culture Academy",
+    "et" : "Viljandi kultuuriakadeemia"
+  },
+  "email" : "kultuur@ut.ee",
+  "phone" : "3724355232",
+  "webpage_url" : "http://www.kultuur.ut.ee",
+  "address" : "Posti 1\n71004 Viljandi linn, \nViljandimaa \nEST",
+  "city" : "Viljandi linn",
+  "street" : "Posti 1",
+  "zip" : "71004",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "HV"
+}, {
+  "code" : "LT",
+  "name" : {
+    "en" : "Faculty of Science and Technology",
+    "et" : "loodus- ja täppisteaduste valdkond"
+  },
+  "level" : 1,
+  "academic" : true,
+  "supports_continuous_learning" : true
+}, {
+  "code" : "LTAT",
+  "name" : {
+    "en" : "Institute of Computer Science",
+    "et" : "arvutiteaduse instituut"
+  },
+  "email" : "ics@ut.ee",
+  "phone" : "+372 737 5445",
+  "webpage_url" : "http://www.cs.ut.ee",
+  "address" : "Narva mnt 18, 51009,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Narva mnt 18",
+  "zip" : "51009",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTFY",
+  "name" : {
+    "en" : "Institute of Physics",
+    "et" : "füüsika instituut"
+  },
+  "webpage_url" : "http://www.fi.ut.ee",
+  "address" : "W. Ostwaldi 1\n50411 Tartu linn, \nTartu linn, Tartumaa \nEST",
+  "city" : "Tartu linn",
+  "street" : "W. Ostwaldi 1",
+  "zip" : "50411",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTGI",
+  "name" : {
+    "en" : "Institute of Genomics",
+    "et" : "genoomika instituut"
+  },
+  "email" : "info.genoomika@ut.ee, info.genomics@ut.ee",
+  "phone" : "+372 737 5029, (+372) 737 5063",
+  "webpage_url" : "www.genoomika.ut.ee",
+  "address" : "Riia 23b/2, 51010,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Riia 23b/2",
+  "zip" : "51010",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTKT",
+  "name" : {
+    "en" : "Institute of Chemistry",
+    "et" : "keemia instituut"
+  },
+  "email" : "chemistry@ut.ee",
+  "phone" : "+372 737 5261",
+  "webpage_url" : "http://www.chem.ut.ee",
+  "address" : "Ravila 14a, 50411,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Ravila 14a",
+  "zip" : "50411",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTLT",
+  "name" : {
+    "en" : "Dean's Office, Faculty of Science and Technology",
+    "et" : "loodus- ja täppisteaduste valdkonna dekanaat"
+  },
+  "email" : "ltt@ut.ee",
+  "phone" : "3727375820",
+  "webpage_url" : "http://reaalteadused.ut.ee",
+  "address" : "Vanemuise 46 - 208\n51003 Tartu linn, \nTartu linn, Tartumaa \nEST",
+  "city" : "Tartu linn",
+  "street" : "Vanemuise 46 - 208",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTMI",
+  "name" : {
+    "en" : "Estonian Marine Institute",
+    "et" : "Eesti mereinstituut"
+  },
+  "phone" : "3726718902",
+  "webpage_url" : "https://mereinstituut.ut.ee",
+  "address" : "Mäealuse 14\n12618 Tallinn, \nHarjumaa \nEST",
+  "city" : "Tallinn",
+  "street" : "Mäealuse 14",
+  "zip" : "12618",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTMR",
+  "name" : {
+    "en" : "Institute of Molecular and Cell Biology",
+    "et" : "molekulaar- ja rakubioloogia instituut"
+  },
+  "phone" : "3727375027",
+  "webpage_url" : "http://www.tymri.ut.ee",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTMS",
+  "name" : {
+    "en" : "Institute of Mathematics and Statistics",
+    "et" : "matemaatika ja statistika instituut"
+  },
+  "email" : "ltms@ut.ee",
+  "phone" : "+372 737 5863, 737 5453",
+  "webpage_url" : "http://math.ut.ee",
+  "address" : "Narva mnt 18, 51009,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Narva mnt 18",
+  "zip" : "51009",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTOM",
+  "name" : {
+    "en" : "Institute of Ecology and Earth Sciences",
+    "et" : "ökoloogia ja maateaduste instituut"
+  },
+  "email" : "om@ut.ee",
+  "phone" : "+372 737 5835",
+  "webpage_url" : "http://www.omi.ut.ee",
+  "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Vanemuise 46",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTTI",
+  "name" : {
+    "en" : "Institute of Technology",
+    "et" : "tehnoloogiainstituut"
+  },
+  "email" : "info@tuit.ut.ee",
+  "phone" : "+372 737 4800",
+  "webpage_url" : "http://www.tuit.ut.ee",
+  "address" : "Nooruse 1, 50411,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Nooruse 1",
+  "zip" : "50411",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "LTTO",
+  "name" : {
+    "en" : "Tartu Observatory",
+    "et" : "Tartu observatoorium"
+  },
+  "address" : "Observatooriumi 1, 61602,  Tõravere alevik, Nõo vald, Tartumaa, Eesti",
+  "city" : "Tõravere alevik",
+  "street" : "Observatooriumi 1",
+  "zip" : "61602",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "LT"
+}, {
+  "code" : "MV",
+  "name" : {
+    "en" : "Faculty of Medicine",
+    "et" : "meditsiiniteaduste valdkond"
+  },
+  "level" : 1,
+  "academic" : true,
+  "supports_continuous_learning" : true
+}, {
+  "code" : "MVBS",
+  "name" : {
+    "en" : "Institute of Biomedicine and Translational Medicine",
+    "et" : "bio- ja siirdemeditsiini instituut"
+  },
+  "email" : "bsmi@ut.ee",
+  "phone" : "+372 737 4210",
+  "webpage_url" : "http://www.biomeditsiin.ut.ee",
+  "address" : "Biomeedikum, Ravila 19, 50411,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Biomeedikum, Ravila 19",
+  "zip" : "50411",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "MV"
+}, {
+  "code" : "MVCM",
+  "name" : {
+    "en" : "Institute of Clinical Medicine",
+    "et" : "kliinilise meditsiini instituut"
+  },
+  "email" : "kmi@ut.ee",
+  "phone" : "+372 737 5323",
+  "webpage_url" : "http://kliinilinemeditsiin.ut.ee, clinicalmedicine.ut.ee",
+  "address" : "L. Puusepa 8, 50406,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "L. Puusepa 8",
+  "zip" : "50406",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "MV"
+}, {
+  "code" : "MVFA",
+  "name" : {
+    "en" : "Institute of Pharmacy",
+    "et" : "farmaatsia instituut"
+  },
+  "email" : "pharmacy@ut.ee",
+  "phone" : "+372 737 5286",
+  "webpage_url" : "http://farmaatsia.ut.ee",
+  "address" : "Nooruse 1, 50411,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Nooruse 1",
+  "zip" : "50411",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "MV"
+}, {
+  "code" : "MVMV",
+  "name" : {
+    "en" : "Dean's Office, Faculty of Medicine",
+    "et" : "meditsiiniteaduste valdkonna dekanaat"
+  },
+  "email" : "med@ut.ee",
+  "phone" : "+372 737 5326",
+  "webpage_url" : "http://meditsiiniteadused.ut.ee",
+  "address" : "Ravila 19, 50411,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Ravila 19",
+  "zip" : "50411",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "MV"
+}, {
+  "code" : "MVPT",
+  "name" : {
+    "en" : "Institute of Family Medicine and Public Health",
+    "et" : "peremeditsiini ja rahvatervishoiu instituut"
+  },
+  "email" : "dph@ut.ee",
+  "phone" : "+372 737 4190",
+  "webpage_url" : "http://tervis.ut.ee",
+  "address" : "Ravila 19, 50411,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Ravila 19",
+  "zip" : "50411",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "MV"
+}, {
+  "code" : "MVSF",
+  "name" : {
+    "en" : "Institute of Sport Sciences and Physiotherapy",
+    "et" : "sporditeaduste ja füsioteraapia instituut"
+  },
+  "email" : "kkdek@ut.ee",
+  "phone" : "+372 737 5360",
+  "webpage_url" : "http://kk.ut.ee",
+  "address" : "Ujula 4, 51008,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Ujula 4",
+  "zip" : "51008",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "MV"
+}, {
+  "code" : "MVST",
+  "name" : {
+    "en" : "Institute of Dentistry",
+    "et" : "hambaarstiteaduse instituut"
+  },
+  "phone" : "+372 731 9856",
+  "webpage_url" : "http://hambaarstiteadus.ut.ee",
+  "address" : "Raekoja plats 6, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Raekoja plats 6",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "MV"
+}, {
+  "code" : "P1RT",
+  "name" : {
+    "en" : "Tartu University Library",
+    "et" : "raamatukogu"
+  },
+  "email" : "library@utlib.ee",
+  "phone" : "+372 737 5702",
+  "webpage_url" : "https://utlib.ut.ee",
+  "address" : "W. Struve 1, 50091,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "W. Struve 1",
+  "zip" : "50091",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "P1"
+}, {
+  "code" : "P2OO",
+  "name" : {
+    "en" : "Office of Academic Affairs",
+    "et" : "õppeosakond"
+  },
+  "phone" : "+372 737 5620",
+  "address" : "Ülikooli 18, 50090,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Ülikooli 18",
+  "zip" : "50090",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "P2"
+}, {
+  "code" : "P2TP",
+  "name" : {
+    "en" : "University of Tartu Youth Academy",
+    "et" : "teaduskool"
+  },
+  "email" : "teaduskool@ut.ee",
+  "phone" : "+372 737 5581",
+  "webpage_url" : "http://www.teaduskool.ut.ee",
+  "address" : "Uppsala 10, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Uppsala 10",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "P2"
+}, {
+  "code" : "P6LM",
+  "name" : {
+    "en" : "University of Tartu Natural History Museum and Botanical Garden",
+    "et" : "loodusmuuseum ja botaanikaaed"
+  },
+  "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Vanemuise 46",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "P6"
+}, {
+  "code" : "SV",
+  "name" : {
+    "en" : "Faculty of Social Sciences",
+    "et" : "sotsiaalteaduste valdkond"
+  },
+  "level" : 1,
+  "academic" : true,
+  "supports_continuous_learning" : true
+}, {
+  "code" : "SVHI",
+  "name" : {
+    "en" : "Institute of Education",
+    "et" : "haridusteaduste instituut"
+  },
+  "email" : "haridus@ut.ee",
+  "phone" : "+372 737 6450",
+  "webpage_url" : "http://www.ht.ut.ee",
+  "address" : "Salme 1a, ruum 29, 50103,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Salme 1a, ruum 29",
+  "zip" : "50103",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+}, {
+  "code" : "SVJS",
+  "name" : {
+    "en" : "Johan Skytte Institute of Political Studies",
+    "et" : "Johan Skytte poliitikauuringute instituut"
+  },
+  "email" : "skytte@ut.ee",
+  "phone" : "+372 737 5583",
+  "webpage_url" : "http://www.skytte.ut.ee",
+  "address" : "Lossi 36, ruum 301, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Lossi 36, ruum 301",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+}, {
+  "code" : "SVMJ",
+  "name" : {
+    "en" : "School of Economics and Business Administration",
+    "et" : "majandusteaduskond"
+  },
+  "email" : "majandus@ut.ee",
+  "phone" : "+372 737 6310",
+  "webpage_url" : "http://majandus.ut.ee",
+  "address" : "Narva mnt 18, 51009,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Narva mnt 18",
+  "zip" : "51009",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+}, {
+  "code" : "SVNC",
+  "name" : {
+    "en" : "Narva College",
+    "et" : "Narva kolledž"
+  },
+  "email" : "college@narva.ut.ee",
+  "phone" : "+372 740 1900",
+  "webpage_url" : "http://www.narva.ut.ee",
+  "address" : "Raekoja plats 2, 20307,  Narva linn, Narva linn, Ida-Virumaa, Eesti",
+  "city" : "Narva linn",
+  "street" : "Raekoja plats 2",
+  "zip" : "20307",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+}, {
+  "code" : "SVOI",
+  "name" : {
+    "en" : "School of Law",
+    "et" : "õigusteaduskond"
+  },
+  "email" : "oi@ut.ee",
+  "phone" : "+372 737 5390, +372 627 1888",
+  "webpage_url" : "http://oigus.ut.ee",
+  "address" : "Näituse 20 - 324, 50409,  Tartu linn, Tartu linn, Tartumaa, Eesti\nKaarli pst 3 - 202 -203, 10119, Tallinn, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Näituse 20 - 324",
+  "zip" : "50409",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+}, {
+  "code" : "SVPC",
+  "name" : {
+    "en" : "Pärnu College",
+    "et" : "Pärnu kolledž"
+  },
+  "email" : "info@pc.ut.ee",
+  "phone" : "+372 445 0520",
+  "webpage_url" : "http://www.pc.ut.ee",
+  "address" : "Ringi 35, 80012,  Pärnu linn, Pärnu linn, Pärnumaa, Eesti",
+  "city" : "Pärnu linn",
+  "street" : "Ringi 35",
+  "zip" : "80012",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+}, {
+  "code" : "SVPH",
+  "name" : {
+    "en" : "Institute of Psychology",
+    "et" : "psühholoogia instituut"
+  },
+  "email" : "psyhholoogia@ut.ee",
+  "phone" : "+372 737 5902",
+  "webpage_url" : "http://www.psychology.ut.ee",
+  "address" : "Näituse 2, 50409,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Näituse 2",
+  "zip" : "50409",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+}, {
+  "code" : "SVSV",
+  "name" : {
+    "en" : "Dean's Office, Faculty of Social Sciences",
+    "et" : "sotsiaalteaduste valdkonna dekanaat"
+  },
+  "email" : "sotsiaalteadused@ut.ee",
+  "phone" : "+372 737 5957",
+  "webpage_url" : "http://sotsiaalteadused.ut.ee",
+  "address" : "Lossi 36, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Lossi 36",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+}, {
+  "code" : "SVUH",
+  "name" : {
+    "en" : "Institute of Social Studies",
+    "et" : "ühiskonnateaduste instituut"
+  },
+  "email" : "yhiskonnateadused@ut.ee",
+  "phone" : "+372 737 5188",
+  "webpage_url" : "http://yti.ut.ee",
+  "address" : "Lossi 36, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+  "city" : "Tartu linn",
+  "street" : "Lossi 36",
+  "zip" : "51003",
+  "level" : 2,
+  "academic" : true,
+  "supports_continuous_learning" : true,
+  "parent_code" : "SV"
+} ]

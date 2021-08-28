@@ -1,0 +1,19 @@
+{
+  "_id": "env_791165457ee5476a80eb759e57161d38",
+  "parentId": "env_5c26b27111476e514de23a328bb6e525496d58c1",
+  "modified": 1600000000000,
+  "created": 1600000000000,
+  "name": "ÕIS2 API",
+  "data": {
+    "baseUrl": "https://ois2.ut.ee/api"
+  },
+  "dataPropertyOrder": {
+    "&": [
+      "baseUrl"
+    ]
+  },
+  "color": null,
+  "isPrivate": false,
+  "metaSortKey": 1630191965342,
+  "_type": "environment"
+}

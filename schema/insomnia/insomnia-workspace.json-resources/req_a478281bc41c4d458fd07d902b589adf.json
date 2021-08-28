@@ -3,7 +3,7 @@
   "parentId": "fld_65f56a1314f44eb3b7321fe7d58b7611",
   "modified": 1600000000000,
   "created": 1600000000000,
-  "url": "https://ois2.ut.ee/api/academic/year",
+  "url": "{{ _.baseUrl }}/academic/year",
   "name": "Academic Year (Current)",
   "description": "",
   "method": "GET",

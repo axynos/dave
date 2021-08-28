@@ -1,0 +1,80 @@
+{
+  "id" : 5908,
+  "uuid" : "16d18cbf-ba30-3034-5e98-472674dd113c",
+  "code" : "2021",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-05-19T10:27:04",
+  "curriculum_code" : "2687",
+  "general" : {
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    }
+  },
+  "classification" : {
+    "study_level" : {
+      "code" : "residency",
+      "et" : "residentuur",
+      "en" : "residency"
+    }
+  },
+  "confirmation" : {
+    "confirmation_date" : "2019-02-20",
+    "confirm_council" : {
+      "code" : "6",
+      "et" : "Valdkonna nõukogu",
+      "en" : "Faculty Council"
+    }
+  },
+  "overview" : {
+    "reception_criteria" : { },
+    "requirements" : {
+      "et" : "'"
+    },
+    "notes" : { },
+    "description" : {
+      "en" : "The residency programme consists of practical and theoretical training provided according to the curriculum of the field chosen by the resident. The practical training is entails working with and under the guidance and supervision of a qualified specialist doctor, and accounts for 80% of the volume of the residency programme the minimum. Contact classes are conducted in the format of lectures, seminars and practical classes at the University of Tartu and as seminars, presentation meetings, clinical conferences and analyses of disease files at the base institutions for residency. Persons who have completed the curriculum of the programme and passed the final residency examination will be awarded a certificate on the completion of the curriculum of the residency programme and a professional certificate attesting to the qualification of a specialist doctor in a specialist field of specialised medical care or specialised dentistry.",
+      "et" : "Residentuur koosneb praktilisest ja teoreetilisest koolitusest vastavalt eriala programmile. Praktiline koolitus seisneb töötamises kvalifitseeritud eriarsti juhendamise ja järelevalve all ning moodustab vähemalt 80 % residentuuri üldmahust. Auditoorne töö toimub loengute, seminaride ja praktikumidena Tartu Ülikoolis ning seminaride, ettekandekoosolekute, kliiniliste konverentside ja haigusjuhtude analüüsina residentuuri baasasutustes. Õppe läbinud ja residentuuri lõpueksami sooritanud isikule antakse tunnistus residentuuri lõpetamise kohta ja selle alusel kutsetunnistus, mis tõendab eriarsti kutsekvalifikatsiooni vastaval arsti või hambaarsti erialal.\r\n\r\n \r\n\r\n \r\n"
+    }
+  },
+  "modules" : {
+    "uuid" : "2e3a2352-878f-4e8e-5426-88a1b42a44ae",
+    "title" : {
+      "en" : "Orthopaedics",
+      "et" : "Ortopeedia"
+    },
+    "min_credits" : 300,
+    "max_credits" : 300,
+    "is_expanded_major" : false,
+    "blocks" : [ {
+      "uuid" : "415c9d47-40d0-20fb-8f7b-2837800e57c2",
+      "order_number" : 1,
+      "title" : {
+        "en" : "Orthopaedics",
+        "et" : "Ortopeedia"
+      },
+      "type" : {
+        "code" : "unclassified",
+        "et" : "liigita plokk",
+        "en" : "unclassified"
+      },
+      "target_group_type" : {
+        "code" : "internal_module",
+        "et" : "sisemoodul",
+        "en" : "internal module"
+      },
+      "only_for_others" : false,
+      "min_credits" : 300,
+      "max_credits" : 300
+    } ]
+  },
+  "_actions" : {
+    "is_editable" : false,
+    "is_deletable" : false
+  }
+}

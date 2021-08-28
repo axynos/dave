@@ -1,0 +1,108 @@
+{
+  "id" : 782,
+  "uuid" : "ad26e62d-e54a-b6a2-0ce9-68a422777e99",
+  "code" : "1988",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-05-19T13:58:23",
+  "curriculum_code" : "2687",
+  "general" : {
+    "year" : {
+      "code" : "1988",
+      "et" : "1988/1989",
+      "en" : "1988/1989"
+    },
+    "input_languages" : [ {
+      "code" : "et",
+      "et" : "eesti keel",
+      "en" : "Estonian"
+    }, {
+      "code" : "en",
+      "et" : "inglise keel",
+      "en" : "English"
+    } ]
+  },
+  "classification" : {
+    "study_type" : {
+      "code" : "1",
+      "et" : "päevaõpe",
+      "en" : "regular studies"
+    },
+    "study_level" : {
+      "code" : "residency",
+      "et" : "residentuur",
+      "en" : "residency"
+    },
+    "domain" : {
+      "code" : "9",
+      "et" : "Tervis ja heaolu",
+      "en" : "Health and welfare"
+    },
+    "direction" : {
+      "code" : "91",
+      "et" : "Tervis",
+      "en" : "Health"
+    },
+    "study_group" : {
+      "code" : "912",
+      "et" : "Meditsiin",
+      "en" : "Medicine"
+    },
+    "group" : {
+      "code" : "90000",
+      "et" : "Meditsiin",
+      "en" : "Medicine (including dental services)"
+    }
+  },
+  "confirmation" : { },
+  "overview" : {
+    "reception_criteria" : {
+      "en" : "Admission to the residency programme is conducted on the basis of a competition held for the graduates of internship programme of the University of Tartu, graduates of the basic course of medicine or dentistry who commenced their studies as of the academic year 1997/98 or persons whose level of education is equivalent to the education of graduates of the basic course in medicine or dentistry or internship of the University of Tartu.",
+      "et" : "Residentuuri võetakse konkursi alusel isikuid, kes on lõpetanud:\r\n\r\n- Tartu Ülikoolis internatuuri;\r\n\r\n- Tartu Ülikoolis arsti või hambaarsti põhiõppe, asudes õppima alates 1997/98. õppeaastast;\r\n\r\n- või kelle haridustase vastab Tartu Ülikooli arsti- ja hambaarsti põhiõppe ning internatuuri lõpetanu haridustasemele.\r\n\r\n \r\n\r\n \r\n"
+    },
+    "requirements" : { },
+    "notes" : { },
+    "description" : {
+      "en" : "The residency programme consists of practical and theoretical training provided according to the curriculum of the field chosen by the resident. The practical training is entails working with and under the guidance and supervision of a qualified specialist doctor, and accounts for 80% of the volume of the residency programme the minimum. Contact classes are conducted in the format of lectures, seminars and practical classes at the University of Tartu and as seminars, presentation meetings, clinical conferences and analyses of disease files at the base institutions for residency. Persons who have completed the curriculum of the programme and passed the final residency examination will be awarded a certificate on the completion of the curriculum of the residency programme and a professional certificate attesting to the qualification of a specialist doctor in a specialist field of specialised medical care or specialised dentistry.",
+      "et" : "Residentuur koosneb praktilisest ja teoreetilisest koolitusest vastavalt eriala programmile. Praktiline koolitus seisneb töötamises kvalifitseeritud eriarsti juhendamise ja järelevalve all ning moodustab vähemalt 80 % residentuuri üldmahust. Auditoorne töö toimub loengute, seminaride ja praktikumidena Tartu Ülikoolis ning seminaride, ettekandekoosolekute, kliiniliste konverentside ja haigusjuhtude analüüsina residentuuri baasasutustes. Õppe läbinud ja residentuuri lõpueksami sooritanud isikule antakse tunnistus residentuuri lõpetamise kohta ja selle alusel kutsetunnistus, mis tõendab eriarsti kutsekvalifikatsiooni vastaval arsti või hambaarsti erialal.\r\n\r\n \r\n\r\n \r\n"
+    }
+  },
+  "modules" : {
+    "uuid" : "26d03fe3-7788-a205-545e-15f095d31064",
+    "title" : {
+      "en" : "Orthopaedics",
+      "et" : "Ortopeedia"
+    },
+    "min_credits" : 300,
+    "max_credits" : 300,
+    "is_expanded_major" : false,
+    "blocks" : [ {
+      "uuid" : "772f67b5-6ab5-8e29-ea5b-d85429b365d4",
+      "order_number" : 1,
+      "title" : {
+        "en" : "Orthopaedics",
+        "et" : "Ortopeedia"
+      },
+      "type" : {
+        "code" : "unclassified",
+        "et" : "liigita plokk",
+        "en" : "unclassified"
+      },
+      "target_group_type" : {
+        "code" : "internal_module",
+        "et" : "sisemoodul",
+        "en" : "internal module"
+      },
+      "only_for_others" : false,
+      "min_credits" : 300,
+      "max_credits" : 300
+    } ]
+  },
+  "_actions" : {
+    "is_deletable" : false,
+    "is_editable" : false
+  }
+}

@@ -1,0 +1,37 @@
+[ {
+  "code" : "HV",
+  "name" : {
+    "en" : "Faculty of Arts and Humanities",
+    "et" : "humanitaarteaduste ja kunstide valdkond"
+  },
+  "level" : 1,
+  "academic" : true,
+  "supports_continuous_learning" : true
+}, {
+  "code" : "SV",
+  "name" : {
+    "en" : "Faculty of Social Sciences",
+    "et" : "sotsiaalteaduste valdkond"
+  },
+  "level" : 1,
+  "academic" : true,
+  "supports_continuous_learning" : true
+}, {
+  "code" : "MV",
+  "name" : {
+    "en" : "Faculty of Medicine",
+    "et" : "meditsiiniteaduste valdkond"
+  },
+  "level" : 1,
+  "academic" : true,
+  "supports_continuous_learning" : true
+}, {
+  "code" : "LT",
+  "name" : {
+    "en" : "Faculty of Science and Technology",
+    "et" : "loodus- ja täppisteaduste valdkond"
+  },
+  "level" : 1,
+  "academic" : true,
+  "supports_continuous_learning" : true
+} ]

@@ -1,0 +1,81 @@
+{
+  "academic_year" : {
+    "code" : "2021",
+    "et" : "2021/2022",
+    "en" : "2021/2022"
+  },
+  "autumn" : {
+    "start" : "2021-08-30",
+    "end" : "2022-02-06",
+    "name" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "academic_year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "estimated_end" : "2022-01-30",
+    "registration_period" : {
+      "start" : "2021-05-15",
+      "end" : "2021-08-29",
+      "first_semester_end" : "2021-09-13",
+      "start_time" : "21:00:00"
+    },
+    "open_university_reg_period" : {
+      "start" : "2021-08-30",
+      "end" : "2021-09-13"
+    }
+  },
+  "spring" : {
+    "start" : "2022-02-07",
+    "end" : "2022-08-28",
+    "name" : {
+      "code" : "spring",
+      "et" : "kevad",
+      "en" : "spring"
+    },
+    "academic_year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "estimated_end" : "2022-06-26",
+    "registration_period" : {
+      "start" : "2021-12-15",
+      "end" : "2022-02-06",
+      "start_time" : "21:00:00"
+    },
+    "open_university_reg_period" : {
+      "start" : "2022-02-07",
+      "end" : "2022-02-21"
+    }
+  },
+  "holidays" : {
+    "winter" : {
+      "start" : "2022-01-31",
+      "end" : "2022-02-06"
+    },
+    "christmas" : {
+      "start" : "2021-12-20",
+      "end" : "2022-01-02"
+    },
+    "summer" : {
+      "start" : "2022-06-27",
+      "end" : "2022-08-28"
+    }
+  },
+  "special_days_off" : {
+    "2021-12-01" : {
+      "en" : "Anniversary of Estonia's National University. PhD degree conferring ceremony",
+      "et" : "Rahvusülikooli 102. aastapäev. Doktorite promoveerimine"
+    },
+    "2021-08-16" : {
+      "en" : "Beginning of studies for curricula with pre-sessional weeks",
+      "et" : "Õppetöö algus eelnädalatega õppekavadel"
+    }
+  },
+  "national_holidays" : [ "2021-12-24", "2021-12-25", "2021-12-26", "2022-01-01", "2022-02-24", "2022-04-15", "2022-04-17", "2022-05-01", "2022-06-05", "2022-06-23", "2022-06-24", "2022-08-20" ]
+}

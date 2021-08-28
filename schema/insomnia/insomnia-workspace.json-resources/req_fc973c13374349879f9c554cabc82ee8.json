@@ -1,24 +1,16 @@
 {
-  "_id": "req_7583d0f50e32464eb4fe043457b3569f",
-  "parentId": "fld_ca86e758cb604efda361da63f35d5140",
+  "_id": "req_fc973c13374349879f9c554cabc82ee8",
+  "parentId": "fld_c9f0d392296049178f283952800d3139",
   "modified": 1600000000000,
   "created": 1600000000000,
-  "url": "{{ _.baseUrl }}/curricula",
-  "name": "Curricula",
+  "url": "{{ _.baseUrl }}/courses/e57289d4-dc7e-02ad-2ba9-4c16c91c09e6",
+  "name": "Course Details",
   "description": "",
-  "method": "POST",
+  "method": "GET",
   "body": {
     "mimeType": "application/json",
     "text": [
-      "{",
-      "\t\"filter\": {",
-      "\t\t\"state\": {",
-      "\t\t\t\"code\": \"confirmed\"",
-      "\t\t}",
-      "\t},",
-      "\t\"start\": 1,",
-      "\t\"take\": 50",
-      "}"
+      "{}"
     ]
   },
   "parameters": [],
@@ -30,7 +22,7 @@
     }
   ],
   "authentication": {},
-  "metaSortKey": -1625641151942.5,
+  "metaSortKey": -1626345301227.875,
   "isPrivate": false,
   "settingStoreCookies": true,
   "settingSendCookies": true,

@@ -3,7 +3,7 @@
   "parentId": "fld_1d4e9a858b0f40c6bff01cedf124fe7b",
   "modified": 1600000000000,
   "created": 1600000000000,
-  "url": "https://ois2.ut.ee/api/structural-units/academic",
+  "url": "{{ _.baseUrl }}/structural-units/academic",
   "name": "Structural Units",
   "description": "",
   "method": "GET",

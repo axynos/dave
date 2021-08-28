@@ -3,7 +3,7 @@
   "parentId": null,
   "modified": 1600000000000,
   "created": 1600000000000,
-  "name": "ÕIS2 API",
+  "name": "ÕIS2 Public API",
   "description": "",
   "scope": "collection",
   "_type": "workspace"

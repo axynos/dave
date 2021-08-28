@@ -3,14 +3,25 @@
   "parentId": "fld_c9f0d392296049178f283952800d3139",
   "modified": 1600000000000,
   "created": 1600000000000,
-  "url": "https://ois2.ut.ee/api/courses/e57289d4dc7e02ad2ba94c16c91c09e6/versions/latest",
-  "name": "Courses",
-  "description": "",
-  "method": "GET",
+  "url": "{{ _.baseUrl }}/courses/",
+  "name": "Courses List",
+  "description": "Lecturers have to be listed by uuid.\nUuid's can be found by making a graphql request to /api/persons/search",
+  "method": "POST",
   "body": {
     "mimeType": "application/json",
     "text": [
-      "{}"
+      "{",
+      "\t\"academic_year\": 2021,",
+      "\t\"lecturers\": [],",
+      "\t\"states\": [{",
+      "\t\t\"code\": \"confirmed\"",
+      "\t}],",
+      "\t\"study_levels\": [",
+      "\t\t",
+      "\t],",
+      "\t\"start\": 1,",
+      "\t\"take\": 50",
+      "}"
     ]
   },
   "parameters": [],

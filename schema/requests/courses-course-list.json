@@ -1,0 +1,711 @@
+[ {
+  "uuid" : "e57289d4-dc7e-02ad-2ba9-4c16c91c09e6",
+  "code" : "LOKT.01.040",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-09-12T11:59:11",
+  "title" : {
+    "en" : "School Chemistry",
+    "et" : "Koolikeemia"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "eefb3a8d-7669-a5dc-9e13-6f95d719ebdf",
+  "code" : "LOMR.03.021",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-10-20T11:39:51",
+  "title" : {
+    "en" : "Practical Course of Microbiology and Virology",
+    "et" : "Mikrobioloogia ja viroloogia praktikum"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "eea00a40-e6db-c192-8c32-6b61d7cf973e",
+  "code" : "KKSB.02.034",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:29",
+  "title" : {
+    "en" : "Biochemistry of Exercise",
+    "et" : "Spordibiokeemia"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "6822db28-ca3a-23a0-bd5f-a336b4bb3e8f",
+  "code" : "SOSS.01.001",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-09-21T17:11:01",
+  "title" : {
+    "en" : "Introductory Sociology",
+    "et" : "Sissejuhatus sotsioloogiasse"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "ecb48f9f-0459-215d-ecdf-052629b292dc",
+  "code" : "MTMS.01.055",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-07-01T10:24:09",
+  "title" : {
+    "en" : "Introduction to Speciality of Statistics",
+    "et" : "Sissejuhatus statistika erialasse"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "cc6b9565-ab88-3ca4-3910-a697f664c2d1",
+  "code" : "LOKT.00.016",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-03-05T14:40:21",
+  "title" : {
+    "en" : "Master's Seminar",
+    "et" : "Magistriseminar"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "d9749ed9-72b9-0016-6aac-9a8298df80be",
+  "code" : "LOFY.01.030",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2018-04-18T19:22:49",
+  "title" : {
+    "en" : "Plasma Physics and its Applications",
+    "et" : "Plasmafüüsika ja tema rakendused"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "9e88bf33-9a13-2a33-202b-4d1e13732b88",
+  "code" : "HVAJ.05.018",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-12-22T14:43:25",
+  "title" : {
+    "en" : "Noble Culture and the Baltic Villa Rustica",
+    "et" : "Aadlikultuur ja Balti villa rustica"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "1273cd3b-9a24-249a-6634-dbfcd1c9ae32",
+  "code" : "LOKT.01.050",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-09-18T11:33:20",
+  "title" : {
+    "en" : "Practical Works in Chemical Education",
+    "et" : "Koolikeemia praktikum"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "fb28e691-1f27-06fd-9027-1dc2c384fff8",
+  "code" : "LOFY.04.041",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2018-01-15T15:29:53",
+  "title" : {
+    "en" : "Quantum Field Theory",
+    "et" : "Kvantväljateooria"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "c4ca844d-f5ec-64b0-1c49-7f34612ca881",
+  "code" : "ARSK.03.007",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:28",
+  "title" : {
+    "en" : "Laboratory Medicine",
+    "et" : "Laboratoorne meditsiin"
+  },
+  "credits" : 1.5
+}, {
+  "uuid" : "e89d04ab-1fb7-b553-f74a-15d9f0432a10",
+  "code" : "MJJV.03.076",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:18",
+  "title" : {
+    "en" : "Personnel Management",
+    "et" : "Personali juhtimine"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "60defe16-b38e-8ea9-5413-c19f91facfc7",
+  "code" : "ARFR.02.011",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-08-21T16:01:00",
+  "title" : {
+    "en" : "Pharmacology",
+    "et" : "Farmakoloogia"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "0e7d0b5d-83ea-f260-7e09-c3d59ea9c250",
+  "code" : "KKSB.05.092",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-04-21T15:38:10",
+  "title" : {
+    "en" : "Practice in the Work Environment",
+    "et" : "Praktiseerimine töökeskkonnas"
+  },
+  "credits" : 3,
+  "type" : {
+    "code" : "regular",
+    "et" : "Tavaline aine",
+    "en" : "Regular course"
+  }
+}, {
+  "uuid" : "b99c0bb1-efd4-9b0a-857a-3dc7114e5c19",
+  "code" : "OIEO.06.046",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:18",
+  "title" : {
+    "en" : "Private International Law",
+    "et" : "Rahvusvaheline eraõigus"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "02259bcb-ad2b-14d1-f261-60e62fda51b4",
+  "code" : "FLGR.04.153",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-01-15T13:14:06",
+  "title" : {
+    "en" : "Bachelor's Seminar",
+    "et" : "Bakalaureuseseminar"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "82bdf068-6ff2-4f08-45e6-ca74f570200a",
+  "code" : "LOKT.08.001",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:32",
+  "title" : {
+    "en" : "Theoretical Chemistry",
+    "et" : "Teoreetiline keemia"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "13def4e9-abc7-c98b-1df3-75a12afa469b",
+  "code" : "MTMM.00.007",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-08-13T12:17:01",
+  "title" : {
+    "en" : "Estonian Orthography and Creative Composition",
+    "et" : "Eesti keele suuline ja kirjalik väljendusõpetus"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "08062000-550e-51cc-0072-7fdd19958710",
+  "code" : "ARMB.01.020",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:26",
+  "title" : {
+    "en" : "Medical Microbiology",
+    "et" : "Meditsiiniline mikrobioloogia"
+  },
+  "credits" : 9
+}, {
+  "uuid" : "025e753e-5730-309e-a76c-961d520fd07a",
+  "code" : "MJRI.10.028",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2017-06-07T13:52:49",
+  "title" : {
+    "en" : "Macroeconomics",
+    "et" : "Makroökonoomika"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "43bb297a-e259-6a68-8cab-e3edb44c3e32",
+  "code" : "LOFY.01.021",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2018-08-29T11:06:54",
+  "title" : {
+    "en" : "Technical Graphics",
+    "et" : "Insenerigraafika"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "e6927124-dd4c-7ecb-389b-57eabf7d2b2e",
+  "code" : "MJRI.09.027",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:18",
+  "title" : {
+    "en" : "Introduction to Economics",
+    "et" : "Sissejuhatus majandusteooriasse"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "5c6eee16-6eaf-b6ec-13da-ff129f4c9394",
+  "code" : "HVEE.05.030",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-12-20T20:35:04",
+  "title" : {
+    "en" : "Estonian Conversation Course",
+    "et" : "Eesti keele vestluskursus välisüliõpilastega"
+  },
+  "credits" : 2
+}, {
+  "uuid" : "9519ca77-454a-1042-913f-18668fee3683",
+  "code" : "MJCV.00.011",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-05-11T09:37:01",
+  "title" : {
+    "en" : "Creative Skills in Entrepreneurial Behaviour",
+    "et" : "Ettevõtliku käitumise ja loova mõttetöö oskused"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "e9f5cf1c-b7a2-e01a-4405-240bbf6ccf19",
+  "code" : "FLAJ.07.091",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2016-10-21T13:13:10",
+  "title" : {
+    "en" : "Modern Historical Writing",
+    "et" : "Tänapäevase ajalookirjutuse kujunemine"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "fdffd50c-3d1b-3517-aaef-c0ea70fa85e0",
+  "code" : "FLGR.01.138",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:16",
+  "title" : {
+    "en" : "History of English-Speaking Countries",
+    "et" : "Inglise keelt kõnelevate maade ajalugu"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "9bc04763-eaeb-975a-61a0-72824c3af100",
+  "code" : "LOFY.04.045",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2018-08-29T14:28:35",
+  "title" : {
+    "en" : "Seminar of Theoretical Physics",
+    "et" : "Teoreetilise füüsika seminar"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "43c6f22c-845f-257e-b6dc-4be89f072cf0",
+  "code" : "LOKT.04.034",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2021-06-14T10:54:20",
+  "title" : {
+    "en" : "Environmental Analysis (Practical Works)",
+    "et" : "Keskkonna analüüsi praktikum"
+  },
+  "credits" : 3,
+  "type" : {
+    "code" : "regular",
+    "et" : "Tavaline aine",
+    "en" : "Regular course"
+  }
+}, {
+  "uuid" : "38e90d8e-7f85-74e0-e7c0-da264fe1a32b",
+  "code" : "SVPC.02.035",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-12-02T15:46:18",
+  "title" : {
+    "en" : "Virtual Tourism in Digital Economy Context",
+    "et" : "Virtuaalne turism digitaalse majanduse kontekstis"
+  },
+  "credits" : 1
+}, {
+  "uuid" : "be07ae14-252c-9ef7-2eeb-19c5d3a524c0",
+  "code" : "LTAT.02.004",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2018-12-20T14:25:48",
+  "title" : {
+    "en" : "Machine Learning II",
+    "et" : "Masinõpe II"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "b9d5b558-bf74-62fc-bfd8-43618a81341d",
+  "code" : "LOKT.04.003",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:31",
+  "title" : {
+    "en" : "Colloid and Surface Chemistry I",
+    "et" : "Kolloid- ja pindnähtuste keemia I"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "76162416-d608-f48f-ec5d-5c40ce9b320d",
+  "code" : "FLFI.00.016",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:13",
+  "title" : {
+    "en" : "Doctoral Seminar",
+    "et" : "Doktoriseminar"
+  },
+  "credits" : 15
+}, {
+  "uuid" : "c38f751e-1fba-1582-0c66-0b0c63780dd6",
+  "code" : "LOKT.10.012",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:32",
+  "title" : {
+    "en" : "Bioorganic Chemistry",
+    "et" : "Bioorgaaniline keemia"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "31c327d5-2b61-c764-b418-bda22c577265",
+  "code" : "SVNC.00.179",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-03-06T11:00:39",
+  "title" : {
+    "en" : "Pedagogical Practicum",
+    "et" : "Pedagoogiline praktikum"
+  },
+  "credits" : 4
+}, {
+  "uuid" : "1c8f8cfb-bfab-f407-3647-cb8c40ff7c87",
+  "code" : "LOKT.01.058",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-09-01T20:04:37",
+  "title" : {
+    "en" : "General Chemistry",
+    "et" : "Üldine keemia"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "aaa0b0d7-7b0c-2e49-2701-e23f972c6a5d",
+  "code" : "LOFY.05.011",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:31",
+  "title" : {
+    "en" : "Physics of Aerosols",
+    "et" : "Aerosoolifüüsika"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "c7122ad3-d170-9fa9-1c27-794e793ea6a1",
+  "code" : "LOMR.03.016",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-08-30T11:01:33",
+  "title" : {
+    "en" : "Microbiology I",
+    "et" : "Mikrobioloogia I"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "5b76d591-1fd1-6e56-6696-2fc3a916f759",
+  "code" : "LOFY.04.035",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-02-06T13:11:49",
+  "title" : {
+    "en" : "Equations of Mathematical Physics",
+    "et" : "Matemaatilise füüsika võrrandid"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "06da4c94-496f-ede0-807a-3710f3bf2b05",
+  "code" : "MJJV.07.083",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-08-17T14:36:59",
+  "title" : {
+    "en" : "Innovation Management",
+    "et" : "Innovatsiooni juhtimine"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "046052f2-a680-be49-782a-0636dd7e8264",
+  "code" : "LOTI.05.092",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-12-21T10:48:54",
+  "title" : {
+    "en" : "Technical Graphics II",
+    "et" : "Insenerigraafika II"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "9c7f4c4c-f4a5-4a5d-533e-7a85e99babcf",
+  "code" : "LOKT.00.009",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-09-01T15:11:07",
+  "title" : {
+    "en" : "Medical Chemistry",
+    "et" : "Meditsiiniline keemia"
+  },
+  "credits" : 5
+}, {
+  "uuid" : "07bdfa01-e31f-2775-1922-106fcfecf440",
+  "code" : "SVUH.00.156",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-11-30T17:12:25",
+  "title" : {
+    "en" : "Digital Information Resources",
+    "et" : "Digitaalsed inforessursid"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "e83a681e-2d88-8786-1226-bf4cd0bafa70",
+  "code" : "LOKT.01.008",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:31",
+  "title" : {
+    "en" : "Fundamentals of Chemistry",
+    "et" : "Keemia põhimõisted"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "4956b9f5-c5fa-8d7f-199b-2aff3f054d4c",
+  "code" : "ARFS.01.030",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2018-12-03T14:17:26",
+  "title" : {
+    "en" : "Human Physiology",
+    "et" : "Inimese füsioloogia"
+  },
+  "credits" : 12
+}, {
+  "uuid" : "c4890754-9e2b-7461-1ab6-17fac20cd1e8",
+  "code" : "ARKI.02.030",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-04-25T10:11:34",
+  "title" : {
+    "en" : "Paediatric Surgery",
+    "et" : "Lastekirurgia"
+  },
+  "credits" : 2.25
+}, {
+  "uuid" : "3bc760e5-9077-b356-b990-7224736eaca5",
+  "code" : "P2OG.01.084",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:17",
+  "title" : {
+    "en" : "Comparative History of Legal Systems",
+    "et" : "Õigussüsteemide võrdlev ajalugu"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "2ed133bf-0aa0-56d3-e92c-714a7a6d8fe2",
+  "code" : "OIEO.06.045",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2016-02-19T13:41:57",
+  "title" : {
+    "en" : "Contract Law",
+    "et" : "Lepinguõigus"
+  },
+  "credits" : 6
+}, {
+  "uuid" : "202d04a4-08ed-d519-b70b-272218cc347f",
+  "code" : "SVNC.00.191",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-11-27T18:13:43",
+  "title" : {
+    "en" : "Health Behaviour",
+    "et" : "Tervisekäitumine"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "548049bf-e4e4-df39-af7e-a6cf3c5c799d",
+  "code" : "LOKT.04.063",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:31",
+  "title" : {
+    "en" : "Processes in Microheterogeneous Systems",
+    "et" : "Protsessid mikroheterogeensetes süsteemides"
+  },
+  "credits" : 3
+}, {
+  "uuid" : "53477f56-57d1-7565-10c3-63712da348f5",
+  "code" : "LOKT.06.010",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2015-12-31T14:18:32",
+  "title" : {
+    "en" : "Analytical Chemistry I",
+    "et" : "Analüütiline keemia I"
+  },
+  "credits" : 6
+} ]

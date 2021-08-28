@@ -1,0 +1,77 @@
+{
+  "previous" : {
+    "start" : "2020-08-31",
+    "end" : "2021-02-07",
+    "name" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "academic_year" : {
+      "code" : "2020",
+      "et" : "2020/2021",
+      "en" : "2020/2021"
+    },
+    "estimated_end" : "2021-01-31",
+    "registration_period" : {
+      "start" : "2020-05-15",
+      "end" : "2020-08-30",
+      "first_semester_end" : "2020-09-14",
+      "start_time" : "21:00:00"
+    },
+    "open_university_reg_period" : {
+      "start" : "2020-08-31",
+      "end" : "2020-09-14"
+    }
+  },
+  "current" : {
+    "start" : "2021-02-08",
+    "end" : "2021-08-29",
+    "name" : {
+      "code" : "spring",
+      "et" : "kevad",
+      "en" : "spring"
+    },
+    "academic_year" : {
+      "code" : "2020",
+      "et" : "2020/2021",
+      "en" : "2020/2021"
+    },
+    "estimated_end" : "2021-06-27",
+    "registration_period" : {
+      "start" : "2020-12-15",
+      "end" : "2021-02-07",
+      "first_semester_end" : "2021-02-22",
+      "start_time" : "21:00:00"
+    },
+    "open_university_reg_period" : {
+      "start" : "2021-02-08",
+      "end" : "2021-02-22"
+    }
+  },
+  "next" : {
+    "start" : "2021-08-30",
+    "end" : "2022-02-06",
+    "name" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "academic_year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "estimated_end" : "2022-01-30",
+    "registration_period" : {
+      "start" : "2021-05-15",
+      "end" : "2021-08-29",
+      "first_semester_end" : "2021-09-13",
+      "start_time" : "21:00:00"
+    },
+    "open_university_reg_period" : {
+      "start" : "2021-08-30",
+      "end" : "2021-09-13"
+    }
+  }
+}

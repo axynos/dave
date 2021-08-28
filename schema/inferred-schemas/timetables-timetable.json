@@ -1,0 +1,865 @@
+{
+  "fields": [
+    {
+      "metadata": {},
+      "name": "course_events",
+      "nullable": true,
+      "type": {
+        "containsNull": true,
+        "elementType": {
+          "fields": [
+            {
+              "metadata": {},
+              "name": "events",
+              "nullable": true,
+              "type": {
+                "containsNull": true,
+                "elementType": {
+                  "fields": [
+                    {
+                      "metadata": {},
+                      "name": "event_type",
+                      "nullable": true,
+                      "type": {
+                        "fields": [
+                          {
+                            "metadata": {},
+                            "name": "code",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "en",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "et",
+                            "nullable": true,
+                            "type": "string"
+                          }
+                        ],
+                        "type": "struct"
+                      }
+                    },
+                    {
+                      "metadata": {},
+                      "name": "group_uuids",
+                      "nullable": true,
+                      "type": {
+                        "containsNull": true,
+                        "elementType": "string",
+                        "type": "array"
+                      }
+                    },
+                    {
+                      "metadata": {},
+                      "name": "lecturers",
+                      "nullable": true,
+                      "type": {
+                        "containsNull": true,
+                        "elementType": {
+                          "fields": [
+                            {
+                              "metadata": {},
+                              "name": "academic_weeks",
+                              "nullable": true,
+                              "type": "string"
+                            },
+                            {
+                              "metadata": {},
+                              "name": "person_uuid",
+                              "nullable": true,
+                              "type": "string"
+                            }
+                          ],
+                          "type": "struct"
+                        },
+                        "type": "array"
+                      }
+                    },
+                    {
+                      "metadata": {},
+                      "name": "location",
+                      "nullable": true,
+                      "type": {
+                        "fields": [
+                          {
+                            "metadata": {},
+                            "name": "address",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "location_uuid",
+                            "nullable": true,
+                            "type": "string"
+                          }
+                        ],
+                        "type": "struct"
+                      }
+                    },
+                    {
+                      "metadata": {},
+                      "name": "notes",
+                      "nullable": true,
+                      "type": {
+                        "fields": [
+                          {
+                            "metadata": {},
+                            "name": "et",
+                            "nullable": true,
+                            "type": "string"
+                          }
+                        ],
+                        "type": "struct"
+                      }
+                    },
+                    {
+                      "metadata": {},
+                      "name": "state",
+                      "nullable": true,
+                      "type": {
+                        "fields": [
+                          {
+                            "metadata": {},
+                            "name": "code",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "en",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "et",
+                            "nullable": true,
+                            "type": "string"
+                          }
+                        ],
+                        "type": "struct"
+                      }
+                    },
+                    {
+                      "metadata": {},
+                      "name": "study_work_type",
+                      "nullable": true,
+                      "type": {
+                        "fields": [
+                          {
+                            "metadata": {},
+                            "name": "code",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "en",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "et",
+                            "nullable": true,
+                            "type": "string"
+                          }
+                        ],
+                        "type": "struct"
+                      }
+                    },
+                    {
+                      "metadata": {},
+                      "name": "time",
+                      "nullable": true,
+                      "type": {
+                        "fields": [
+                          {
+                            "metadata": {},
+                            "name": "academic_weeks",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "begin_time",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "end_time",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "since_date",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "until_date",
+                            "nullable": true,
+                            "type": "string"
+                          },
+                          {
+                            "metadata": {},
+                            "name": "weekday",
+                            "nullable": true,
+                            "type": {
+                              "fields": [
+                                {
+                                  "metadata": {},
+                                  "name": "code",
+                                  "nullable": true,
+                                  "type": "string"
+                                },
+                                {
+                                  "metadata": {},
+                                  "name": "en",
+                                  "nullable": true,
+                                  "type": "string"
+                                },
+                                {
+                                  "metadata": {},
+                                  "name": "et",
+                                  "nullable": true,
+                                  "type": "string"
+                                }
+                              ],
+                              "type": "struct"
+                            }
+                          }
+                        ],
+                        "type": "struct"
+                      }
+                    },
+                    {
+                      "metadata": {},
+                      "name": "uuid",
+                      "nullable": true,
+                      "type": "string"
+                    }
+                  ],
+                  "type": "struct"
+                },
+                "type": "array"
+              }
+            },
+            {
+              "metadata": {},
+              "name": "groups",
+              "nullable": true,
+              "type": {
+                "fields": [
+                  {
+                    "metadata": {},
+                    "name": "623d17b7-3328-6ce9-76b0-08a14f715235",
+                    "nullable": true,
+                    "type": "string"
+                  },
+                  {
+                    "metadata": {},
+                    "name": "ee0359b2-6dba-c9da-902b-b85d73649fc6",
+                    "nullable": true,
+                    "type": "string"
+                  }
+                ],
+                "type": "struct"
+              }
+            },
+            {
+              "metadata": {},
+              "name": "info",
+              "nullable": true,
+              "type": {
+                "fields": [
+                  {
+                    "metadata": {},
+                    "name": "course_code",
+                    "nullable": true,
+                    "type": "string"
+                  },
+                  {
+                    "metadata": {},
+                    "name": "course_uuid",
+                    "nullable": true,
+                    "type": "string"
+                  },
+                  {
+                    "metadata": {},
+                    "name": "course_version_uuid",
+                    "nullable": true,
+                    "type": "string"
+                  },
+                  {
+                    "metadata": {},
+                    "name": "credits",
+                    "nullable": true,
+                    "type": "long"
+                  },
+                  {
+                    "metadata": {},
+                    "name": "language",
+                    "nullable": true,
+                    "type": {
+                      "fields": [
+                        {
+                          "metadata": {},
+                          "name": "code",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "en",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "et",
+                          "nullable": true,
+                          "type": "string"
+                        }
+                      ],
+                      "type": "struct"
+                    }
+                  },
+                  {
+                    "metadata": {},
+                    "name": "part",
+                    "nullable": true,
+                    "type": {
+                      "fields": [
+                        {
+                          "metadata": {},
+                          "name": "code",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "en",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "et",
+                          "nullable": true,
+                          "type": "string"
+                        }
+                      ],
+                      "type": "struct"
+                    }
+                  },
+                  {
+                    "metadata": {},
+                    "name": "semester",
+                    "nullable": true,
+                    "type": {
+                      "fields": [
+                        {
+                          "metadata": {},
+                          "name": "code",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "en",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "et",
+                          "nullable": true,
+                          "type": "string"
+                        }
+                      ],
+                      "type": "struct"
+                    }
+                  },
+                  {
+                    "metadata": {},
+                    "name": "state",
+                    "nullable": true,
+                    "type": {
+                      "fields": [
+                        {
+                          "metadata": {},
+                          "name": "code",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "en",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "et",
+                          "nullable": true,
+                          "type": "string"
+                        }
+                      ],
+                      "type": "struct"
+                    }
+                  },
+                  {
+                    "metadata": {},
+                    "name": "structural_unit",
+                    "nullable": true,
+                    "type": {
+                      "fields": [
+                        {
+                          "metadata": {},
+                          "name": "academic",
+                          "nullable": true,
+                          "type": "boolean"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "address",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "city",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "code",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "email",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "level",
+                          "nullable": true,
+                          "type": "long"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "name",
+                          "nullable": true,
+                          "type": {
+                            "fields": [
+                              {
+                                "metadata": {},
+                                "name": "en",
+                                "nullable": true,
+                                "type": "string"
+                              },
+                              {
+                                "metadata": {},
+                                "name": "et",
+                                "nullable": true,
+                                "type": "string"
+                              }
+                            ],
+                            "type": "struct"
+                          }
+                        },
+                        {
+                          "metadata": {},
+                          "name": "parent_code",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "phone",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "street",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "supports_continuous_learning",
+                          "nullable": true,
+                          "type": "boolean"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "webpage_url",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "zip",
+                          "nullable": true,
+                          "type": "string"
+                        }
+                      ],
+                      "type": "struct"
+                    }
+                  },
+                  {
+                    "metadata": {},
+                    "name": "study_type",
+                    "nullable": true,
+                    "type": {
+                      "fields": [
+                        {
+                          "metadata": {},
+                          "name": "code",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "en",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "et",
+                          "nullable": true,
+                          "type": "string"
+                        }
+                      ],
+                      "type": "struct"
+                    }
+                  },
+                  {
+                    "metadata": {},
+                    "name": "title",
+                    "nullable": true,
+                    "type": {
+                      "fields": [
+                        {
+                          "metadata": {},
+                          "name": "en",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "et",
+                          "nullable": true,
+                          "type": "string"
+                        }
+                      ],
+                      "type": "struct"
+                    }
+                  },
+                  {
+                    "metadata": {},
+                    "name": "year",
+                    "nullable": true,
+                    "type": {
+                      "fields": [
+                        {
+                          "metadata": {},
+                          "name": "code",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "en",
+                          "nullable": true,
+                          "type": "string"
+                        },
+                        {
+                          "metadata": {},
+                          "name": "et",
+                          "nullable": true,
+                          "type": "string"
+                        }
+                      ],
+                      "type": "struct"
+                    }
+                  }
+                ],
+                "type": "struct"
+              }
+            },
+            {
+              "metadata": {},
+              "name": "lecturers",
+              "nullable": true,
+              "type": {
+                "containsNull": true,
+                "elementType": {
+                  "fields": [
+                    {
+                      "metadata": {},
+                      "name": "is_responsible",
+                      "nullable": true,
+                      "type": "boolean"
+                    },
+                    {
+                      "metadata": {},
+                      "name": "is_teaching",
+                      "nullable": true,
+                      "type": "boolean"
+                    },
+                    {
+                      "metadata": {},
+                      "name": "person_name",
+                      "nullable": true,
+                      "type": "string"
+                    },
+                    {
+                      "metadata": {},
+                      "name": "person_uuid",
+                      "nullable": true,
+                      "type": "string"
+                    }
+                  ],
+                  "type": "struct"
+                },
+                "type": "array"
+              }
+            }
+          ],
+          "type": "struct"
+        },
+        "type": "array"
+      }
+    },
+    {
+      "metadata": {},
+      "name": "info",
+      "nullable": true,
+      "type": {
+        "fields": [
+          {
+            "metadata": {},
+            "name": "semester",
+            "nullable": true,
+            "type": {
+              "fields": [
+                {
+                  "metadata": {},
+                  "name": "code",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "en",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "et",
+                  "nullable": true,
+                  "type": "string"
+                }
+              ],
+              "type": "struct"
+            }
+          },
+          {
+            "metadata": {},
+            "name": "state",
+            "nullable": true,
+            "type": {
+              "fields": [
+                {
+                  "metadata": {},
+                  "name": "code",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "en",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "et",
+                  "nullable": true,
+                  "type": "string"
+                }
+              ],
+              "type": "struct"
+            }
+          },
+          {
+            "metadata": {},
+            "name": "structural_unit",
+            "nullable": true,
+            "type": {
+              "fields": [
+                {
+                  "metadata": {},
+                  "name": "academic",
+                  "nullable": true,
+                  "type": "boolean"
+                },
+                {
+                  "metadata": {},
+                  "name": "code",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "level",
+                  "nullable": true,
+                  "type": "long"
+                },
+                {
+                  "metadata": {},
+                  "name": "name",
+                  "nullable": true,
+                  "type": {
+                    "fields": [
+                      {
+                        "metadata": {},
+                        "name": "en",
+                        "nullable": true,
+                        "type": "string"
+                      },
+                      {
+                        "metadata": {},
+                        "name": "et",
+                        "nullable": true,
+                        "type": "string"
+                      }
+                    ],
+                    "type": "struct"
+                  }
+                },
+                {
+                  "metadata": {},
+                  "name": "supports_continuous_learning",
+                  "nullable": true,
+                  "type": "boolean"
+                }
+              ],
+              "type": "struct"
+            }
+          },
+          {
+            "metadata": {},
+            "name": "title",
+            "nullable": true,
+            "type": {
+              "fields": [
+                {
+                  "metadata": {},
+                  "name": "en",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "et",
+                  "nullable": true,
+                  "type": "string"
+                }
+              ],
+              "type": "struct"
+            }
+          },
+          {
+            "metadata": {},
+            "name": "type",
+            "nullable": true,
+            "type": {
+              "fields": [
+                {
+                  "metadata": {},
+                  "name": "code",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "en",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "et",
+                  "nullable": true,
+                  "type": "string"
+                }
+              ],
+              "type": "struct"
+            }
+          },
+          {
+            "metadata": {},
+            "name": "year",
+            "nullable": true,
+            "type": {
+              "fields": [
+                {
+                  "metadata": {},
+                  "name": "code",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "en",
+                  "nullable": true,
+                  "type": "string"
+                },
+                {
+                  "metadata": {},
+                  "name": "et",
+                  "nullable": true,
+                  "type": "string"
+                }
+              ],
+              "type": "struct"
+            }
+          }
+        ],
+        "type": "struct"
+      }
+    },
+    {
+      "metadata": {},
+      "name": "last_update",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "uuid",
+      "nullable": true,
+      "type": "string"
+    }
+  ],
+  "type": "struct"
+}

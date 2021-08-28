@@ -1,0 +1,201 @@
+{
+  "uuid" : "24f4781f-e863-7a2b-d3d3-a0033c7192cd",
+  "code" : "lo-2008-spring-fulltime-c2",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-09-12T11:59:11",
+  "title" : {
+    "en" : "School Chemistry",
+    "et" : "Koolikeemia"
+  },
+  "credits" : 2,
+  "target" : {
+    "year" : {
+      "code" : "2008",
+      "et" : "2008/2009",
+      "en" : "2008/2009"
+    },
+    "semester" : {
+      "code" : "spring",
+      "et" : "kevad",
+      "en" : "spring"
+    },
+    "study_type" : {
+      "code" : "fulltime",
+      "et" : "päevaõpe",
+      "en" : "regular studies"
+    },
+    "language" : {
+      "code" : "et",
+      "et" : "eesti keel",
+      "en" : "Estonian"
+    },
+    "part" : {
+      "code" : "0",
+      "et" : "Osadeta",
+      "en" : "None"
+    },
+    "faculty" : {
+      "code" : "LO",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja tehnoloogiateaduskond"
+      },
+      "email" : "lote@ut.ee",
+      "phone" : "(+372) 737 5820",
+      "webpage_url" : "http://www.lote.ut.ee/",
+      "address" : "Vanemuise 46-202, 51014,  Tartu, Tartumaa, Eesti",
+      "city" : "Tartu",
+      "street" : "Vanemuise 46-202",
+      "zip" : "51014",
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true,
+      "is_expired" : true
+    },
+    "course_main_structural_unit" : {
+      "code" : "LTKT01",
+      "name" : {
+        "en" : "Chair of Inorganic Chemistry",
+        "et" : "anorgaanilise keemia õppetool"
+      },
+      "level" : 3,
+      "academic" : true,
+      "supports_continuous_learning" : false,
+      "parent_code" : "LTKT"
+    },
+    "label" : {
+      "en" : "08/09 S regular LT",
+      "et" : "08/09 K PÕ LT"
+    }
+  },
+  "general" : {
+    "year" : {
+      "code" : "2008",
+      "et" : "2008/2009",
+      "en" : "2008/2009"
+    },
+    "input_languages" : [ {
+      "code" : "et",
+      "et" : "eesti keel",
+      "en" : "Estonian"
+    } ],
+    "structural_unit_shares" : [ {
+      "structural_unit_code" : "LTKT01",
+      "structural_unit_name" : {
+        "en" : "Chair of Inorganic Chemistry",
+        "et" : "anorgaanilise keemia õppetool"
+      },
+      "course_share_percent" : 100,
+      "coordinating" : true
+    } ],
+    "type" : {
+      "code" : "regular",
+      "et" : "Tavaline aine",
+      "en" : "Regular course"
+    }
+  },
+  "additional_info" : {
+    "is_vota_course" : true,
+    "is_continuous_learning_course" : false,
+    "audience" : { },
+    "study_levels" : [ {
+      "code" : "master",
+      "et" : "magistriõpe",
+      "en" : "master's studies"
+    } ],
+    "hours" : {
+      "lecture" : 32,
+      "practice" : 0,
+      "seminar" : 0,
+      "colloquium" : 0,
+      "web_learning" : 0,
+      "independent_work" : 48,
+      "individual_work" : 0,
+      "internship" : 0
+    }
+  },
+  "overview" : {
+    "study_languages" : [ {
+      "code" : "et",
+      "et" : "eesti keel",
+      "en" : "Estonian"
+    } ],
+    "description" : {
+      "en" : "The theoretical basis and main goals of teaching chemistry at school are discussed. The typical mistakes and misconceptions of students are pointed out.",
+      "et" : "Kursuse eesmärk on tutvustada tulevastele keemiapedagoogidele üldhariduskoolide keemia ainekava põhimõtteid ja õpilastelt nõutavaid õpitulemusi. Käsitletakse õpilaste ettevalmistamist keemia riigieksamiks, õpetatakse koostama vastavaid harjutusküsimusi ja ülesandeid. Üliõpilased teevad ühe koolikeemia teema käsitlemise eesmärkide, nõutavate õpitulemuste ja kasutatavate õppemeetodite kohta ettekande."
+    },
+    "objectives" : [ {
+      "en" : "To give an overview of main problems of teaching chemistry at school.",
+      "et" : "Anda ülevaade koolikeemia põhiprobleemidest."
+    } ],
+    "learning_outcomes" : [ {
+      "en" : "Student having passed the course, ",
+      "et" : "Kursuse läbinud üliõpilane "
+    }, {
+      "en" : "1.knows the content and theoretical fundamentals of the courses of chemistry in basic school and gymnasium,",
+      "et" : "1.tunneb põhikooli ja gümnaasiumi keemiakursuste sisu ja teoreetilisi põhialuseid,"
+    }, {
+      "en" : "2.knows the main goals of the chemistry teaching and the knowledge acquired  in school chemistry,",
+      "et" : "2.teab keemiaõpetuse eesmärke üldhariduskoolis ja põhilisi nõutavaid õpitulemusi,"
+    }, {
+      "en" : "3.is able to apply his knowledge in the explanation of chemistry problems and to compose problem excercises for students,",
+      "et" : "3.oskab rakendada oma teadmisi koolikeemia probleemide selgitamisel ja koostada vastavaid probleemülesandeid õpilastele,"
+    }, {
+      "en" : "4.is able to connect the problems of school chemistry with the problems of everyday life and of other natural scienses.",
+      "et" : "4.oskab seostada koolikeemias käsitletavaid probleeme argielu ning teiste loodusteaduste probleemidega."
+    } ],
+    "notes" : { }
+  },
+  "grading" : {
+    "independent_work" : { },
+    "grade_preconditions" : { },
+    "grade_evaluation" : { },
+    "debt_elimination" : { },
+    "assessment_scale" : {
+      "code" : "grade",
+      "et" : "Eristav (A, B, C, D, E, F, mi)",
+      "en" : "differentiated (A, B, C, D, E, F, not present)"
+    }
+  },
+  "resources" : {
+    "web_based" : {
+      "code" : "no",
+      "et" : "Ei ole",
+      "en" : "No"
+    },
+    "is_moodle_connected" : false
+  },
+  "participants" : {
+    "lecturers" : [ {
+      "person_uuid" : "a1456b2c-fb41-a922-1d6e-3ae44abfd916",
+      "person_name" : "Lembi Tamm",
+      "structural_unit" : {
+        "code" : "LOKT01",
+        "name" : {
+          "en" : "Chair of Inorganic Chemistry",
+          "et" : "anorgaanilise keemia õppetool"
+        },
+        "level" : 3,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LOKT",
+        "is_expired" : true
+      },
+      "is_responsible" : true,
+      "is_teaching" : true
+    } ]
+  },
+  "schedule" : {
+    "weeks" : { }
+  },
+  "parent_uuid" : "e57289d4-dc7e-02ad-2ba9-4c16c91c09e6",
+  "parent_code" : "LOKT.01.040",
+  "_actions" : {
+    "is_editable" : false,
+    "is_deletable" : false
+  }
+}

@@ -3,8 +3,8 @@
   "parentId": "fld_232f22f9a4464be1a314febc2c637700",
   "modified": 1600000000000,
   "created": 1600000000000,
-  "url": "https://ois2.ut.ee/api/timetable/",
-  "name": "Timetables",
+  "url": "{{ _.baseUrl }}/timetable/",
+  "name": "Timetable List",
   "description": "",
   "method": "POST",
   "body": {
@@ -19,7 +19,9 @@
       "\t\t\"state\": {",
       "\t\t\t\"code\": \"confirmed\"",
       "\t\t}",
-      "\t}",
+      "\t},",
+      "\t\"start\": 1,",
+      "\t\"take\": 50",
       "}"
     ]
   },

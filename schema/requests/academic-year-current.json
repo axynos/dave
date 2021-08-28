@@ -1,0 +1,81 @@
+{
+  "academic_year" : {
+    "code" : "2020",
+    "et" : "2020/2021",
+    "en" : "2020/2021"
+  },
+  "autumn" : {
+    "start" : "2020-08-31",
+    "end" : "2021-02-07",
+    "name" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "academic_year" : {
+      "code" : "2020",
+      "et" : "2020/2021",
+      "en" : "2020/2021"
+    },
+    "estimated_end" : "2021-01-31",
+    "registration_period" : {
+      "start" : "2020-06-01",
+      "end" : "2020-08-30",
+      "first_semester_end" : "2020-09-14",
+      "start_time" : "21:00:00"
+    },
+    "open_university_reg_period" : {
+      "start" : "2020-08-31",
+      "end" : "2020-09-14"
+    }
+  },
+  "spring" : {
+    "start" : "2021-02-08",
+    "end" : "2021-08-29",
+    "name" : {
+      "code" : "spring",
+      "et" : "kevad",
+      "en" : "spring"
+    },
+    "academic_year" : {
+      "code" : "2020",
+      "et" : "2020/2021",
+      "en" : "2020/2021"
+    },
+    "estimated_end" : "2021-06-27",
+    "registration_period" : {
+      "start" : "2020-12-15",
+      "end" : "2021-02-07",
+      "start_time" : "21:00:00"
+    },
+    "open_university_reg_period" : {
+      "start" : "2021-02-08",
+      "end" : "2021-02-22"
+    }
+  },
+  "holidays" : {
+    "winter" : {
+      "start" : "2021-02-01",
+      "end" : "2021-02-07"
+    },
+    "christmas" : {
+      "start" : "2020-12-21",
+      "end" : "2021-01-03"
+    },
+    "summer" : {
+      "start" : "2021-06-28",
+      "end" : "2021-08-29"
+    }
+  },
+  "special_days_off" : {
+    "2020-12-01" : {
+      "en" : "Anniversary of Estonia's National University. PhD degree conferring ceremony",
+      "et" : "Rahvusülikooli 101. aastapäev. Doktorite promoveerimine"
+    },
+    "2020-08-16" : {
+      "en" : "Beginning of studies for curricula with pre-sessional weeks",
+      "et" : "Õppetöö algus eelnädalatega õppekavadel"
+    }
+  },
+  "national_holidays" : [ "2020-12-24", "2020-12-25", "2020-12-26", "2021-01-01", "2021-02-24", "2021-04-02", "2021-04-04", "2021-05-01", "2021-05-23", "2021-06-23", "2021-06-24", "2021-08-20" ]
+}

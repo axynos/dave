@@ -1,0 +1,301 @@
+{
+  "id" : 203,
+  "uuid" : "7048ebcd-61f8-8fb7-d19d-2b5994640569",
+  "code" : "2687",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2020-05-19T13:58:23",
+  "title" : {
+    "en" : "Orthopaedics",
+    "et" : "Ortopeedia"
+  },
+  "credits" : 300,
+  "general" : {
+    "input_languages" : [ {
+      "code" : "et",
+      "et" : "eesti keel",
+      "en" : "Estonian"
+    }, {
+      "code" : "en",
+      "et" : "inglise keel",
+      "en" : "English"
+    } ],
+    "code" : "2687",
+    "titles" : [ {
+      "title" : {
+        "en" : "Orthopaedics",
+        "et" : "Ortopeedia"
+      },
+      "title_of" : "ortopeedia",
+      "is_active" : true
+    } ],
+    "duration_years" : 5,
+    "credits" : 300
+  },
+  "classification" : {
+    "study_type" : {
+      "code" : "1",
+      "et" : "päevaõpe",
+      "en" : "regular studies"
+    },
+    "curricula_system" : {
+      "code" : "1",
+      "et" : "Ainesüsteem",
+      "en" : "subject system"
+    },
+    "study_level" : {
+      "code" : "residency",
+      "et" : "residentuur",
+      "en" : "residency"
+    },
+    "ehis_level" : {
+      "code" : "33",
+      "et" : "7R residentuur (arst-residendid) alates 2001",
+      "en" : "7R The residency training of medical specialists"
+    },
+    "domain" : {
+      "code" : "9",
+      "et" : "Tervis ja heaolu",
+      "en" : "Health and welfare"
+    },
+    "direction" : {
+      "code" : "91",
+      "et" : "Tervis",
+      "en" : "Health"
+    },
+    "study_group" : {
+      "code" : "912",
+      "et" : "Meditsiin",
+      "en" : "Medicine"
+    },
+    "group" : {
+      "code" : "90000",
+      "et" : "Meditsiin",
+      "en" : "Medicine (including dental services)"
+    }
+  },
+  "overview" : {
+    "study_languages" : [ {
+      "since_date" : "2001-04-27",
+      "language" : {
+        "code" : "1",
+        "et" : "eesti",
+        "en" : "Estonian"
+      },
+      "is_active" : true
+    } ],
+    "other_languages" : [ {
+      "since_date" : "2001-04-27",
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "is_active" : true
+    } ],
+    "reception_criteria" : {
+      "en" : "Admission to the residency programme is conducted on the basis of a competition held for the graduates of internship programme of the University of Tartu, graduates of the basic course of medicine or dentistry who commenced their studies as of the academic year 1997/98 or persons whose level of education is equivalent to the education of graduates of the basic course in medicine or dentistry or internship of the University of Tartu.",
+      "et" : "Residentuuri võetakse konkursi alusel isikuid, kes on lõpetanud:\r\n\r\n- Tartu Ülikoolis internatuuri;\r\n\r\n- Tartu Ülikoolis arsti või hambaarsti põhiõppe, asudes õppima alates 1997/98. õppeaastast;\r\n\r\n- või kelle haridustase vastab Tartu Ülikooli arsti- ja hambaarsti põhiõppe ning internatuuri lõpetanu haridustasemele.\r\n\r\n \r\n\r\n \r\n"
+    },
+    "objectives" : [ {
+      "en" : "The aim of the residency programme is to provide the knowledge, skills and practical experience required for practising as an independent specialist doctor.",
+      "et" : "Residentuuri eesmärgiks on viia residendi teadmised, oskused ja praktilised kogemused iseseisva eriarsti tasemele."
+    } ],
+    "learning_outcomes" : [ {
+      "et" : "Residentuuri programmi läbinud arst-resident:\r"
+    }, {
+      "et" : "1) on võimeline osutama ortopeedia erialal kvaliteetset arstiabi, mis on vastavuses arstiteaduse uusimate saavutuste ja kõrgete eetiliste standarditega;\r"
+    }, {
+      "et" : "2) omab arstikutsele vajalikke hoiakuid, küllaldasi erialaseid teadmisi, oskusi ja kliinilist kogemust;\r"
+    }, {
+      "et" : "3) tunneb ja järgib teaduseetika ja meditsiinieetika ning tõenduspõhise meditsiini põhimõtteid;\r"
+    }, {
+      "et" : "4) soovib oma tegevusega kaasa aidata nii meditsiini kui valdkonna kui ka arstiteaduse arengule;\r"
+    }, {
+      "et" : "5) tunneb oma erialalise kompetentsuse piire ning oskab meditsiinisüsteemis kaasata optimaalselt teiste erialade arste ning teisi tervishoiuspetsialiste patsientide probleemide parimaks lahendamiseks;\r"
+    }, {
+      "et" : "6) orienteerub Eesti tervishoiukorralduses ja vastavas seadusandluses;\r"
+    }, {
+      "et" : "7) oskab teha koostööd patsientide lähedaste, sotsiaalsüsteemi jm. tugivõrgustikega;\r"
+    }, {
+      "et" : "8) omab süsteemseid ja põhjalikke teadmisi ortopeedias kasutatavatest mõistetest, teoreetilistest printsiipidest ja uurimismeetoditest;\r"
+    }, {
+      "et" : "9) suudab edastada meditsiinilisi teadmisi ja nende põhjal tehtud järeldusi nii patsientidele, kolleegidele kui ka avalikkusele;\r"
+    }, {
+      "et" : "10) teadvustab vajadust jätkata meditsiinialaste teadmiste ja oskuste täiendamist edaspidise professionaalse karjääri jooksul täiendusõppe abil ning on valmis elukestvaks õppeks;\r"
+    }, {
+      "et" : "11) suudab iseseisvalt diagnoosida ning ravida enamlevinud ortopeedilisi haigusi (nii plaanilisi kui erakorralisi);\r"
+    }, {
+      "et" : "12) tunneb operatsioonide näidustusi nii erakorralises kui plaanilises kirurgias;\r"
+    }, {
+      "et" : "13) oskab koostöös teiste erialade arstidega läbi viia diferentsiaaldiagnostikat keerukate haigusjuhtude korral kasutades optimaalselt kogu kaasaegset instrumentaalsete ja laboratoorsete uuringute kompleksi;\r"
+    }, {
+      "et" : "14) oskab juhtida patsientide uuringuid ja ravi mitmete haiguste koosesinemisel, määrata uuringute ja ravi prioriteedid, hinnata erinevate sekkumisvõimaluste tulemuslikkust ning riske;\r"
+    }, {
+      "et" : "15) oskab analüüsida ja hinnata teostatud operatsioonide ja protseduuride tulemusi.\r"
+    }, {
+      "et" : "16) valdab tänapäevases intensiivravis kasutatavaid meetodeid ortopeediliste haiguste ravis;\r"
+    }, {
+      "et" : "17) tunneb kemo- ja radioteraapia näidustusi ja ravipõhimõtteid  onkoloogiliste haigete ravis.\r"
+    }, {
+      "et" : "18) oskab iseseisvalt sooritada järgmisi operatsioone ja protseduure:\r"
+    }, {
+      "et" : "- Haavade esmane kirurgiline töötlus\r"
+    }, {
+      "et" : "- Suurte toruluude osteosüntees\r"
+    }, {
+      "et" : "- Artroskoopiline operatsioon\r"
+    }, {
+      "et" : "- Implantaatide eemaldamine\r"
+    }, {
+      "et" : "- Kõõluste õmblus\r"
+    }, {
+      "et" : "- Labakäe/labajala luude osteosüntees\r"
+    }, {
+      "et" : "- Võõrkehade eemaldamine\r"
+    }, {
+      "et" : "- Amputatsioonid (reis, säär, labajalg jt)\r"
+    }, {
+      "et" : "- Rangluu osteosüntees\r"
+    }, {
+      "et" : "- Põlvekedra osteosüntees\r"
+    }, {
+      "et" : "- Akromioklavikulaarliiduse fiksatsioon\r"
+    }, {
+      "et" : "- Välisfiksaatori asetamine\r"
+    }, {
+      "et" : "- Luu healoomulise kasvaja eemaldamine\r"
+    }, {
+      "et" : "- Puusa- ja põlveliigese endoproteesimine\r"
+    }, {
+      "et" : "- Kõõluste plastika\r"
+    }, {
+      "et" : "- Liigessidemete või kapsliaparaadi õmblus\r"
+    }, {
+      "et" : "- Palmaarfastsiektoomia\r"
+    }, {
+      "et" : "- Lahtine luubiopsia\r"
+    }, {
+      "et" : "- Sääreluu kõrge korrigeeriv osteotoomia\r"
+    }, {
+      "et" : "- Hallux valguse operatsioon osteotoomiaga\r"
+    }, {
+      "et" : "- Artrodees väikestel liigestel\r"
+    }, {
+      "et" : "- Luusekvestrite eemaldamine\r"
+    }, {
+      "et" : "- Kipsimmobilisatsioon\r"
+    }, {
+      "et" : "- Suurte liigeste/luude repositsioonid\r"
+    }, {
+      "et" : "- Väikeste liigeste/luude repositsioonid\r"
+    }, {
+      "et" : "- Ambulatoorsed pisioperatsioonid\r"
+    }, {
+      "et" : "- Skelettekstensiooni asetamine\r"
+    }, {
+      "et" : "- Õlaliigese redresseerimine\r"
+    }, {
+      "et" : "19) Soovitav protseduuripõhine hindamine (procedure based assessment PBA):\r"
+    }, {
+      "et" : "- hüppeliigese murd (5)\r"
+    }, {
+      "et" : "- artroskoopiline operatsioon (5)\r"
+    }, {
+      "et" : "- reieluukaela murru osteosüntees (5)"
+    } ],
+    "notes" : { }
+  },
+  "managers" : {
+    "faculty_history_groups" : [ {
+      "since_date" : "2001-04-27",
+      "items" : [ {
+        "since_date" : "2001-04-27",
+        "structural_unit" : {
+          "code" : "AR",
+          "name" : {
+            "en" : "Faculty of Medicine",
+            "et" : "arstiteaduskond"
+          },
+          "email" : "arst@ut.ee",
+          "phone" : "(+372) 737 5326",
+          "webpage_url" : "http://www.med.ut.ee/",
+          "address" : "Ravila 19, 50411,  Tartu, Tartumaa, Eesti",
+          "city" : "Tartu",
+          "street" : "Ravila 19",
+          "zip" : "50411",
+          "level" : 1,
+          "academic" : true,
+          "supports_continuous_learning" : true,
+          "is_expired" : true
+        },
+        "is_coordinating" : false,
+        "is_active" : true
+      }, {
+        "since_date" : "2001-04-27",
+        "structural_unit" : {
+          "code" : "MV",
+          "name" : {
+            "en" : "Faculty of Medicine",
+            "et" : "meditsiiniteaduste valdkond"
+          },
+          "level" : 1,
+          "academic" : true,
+          "supports_continuous_learning" : true
+        },
+        "is_coordinating" : true,
+        "is_active" : true
+      } ],
+      "is_active" : true
+    } ],
+    "managers_history_groups" : [ {
+      "since_date" : "2001-04-27",
+      "items" : [ {
+        "since_date" : "2001-04-27",
+        "structural_unit" : {
+          "code" : "MV",
+          "name" : {
+            "en" : "Faculty of Medicine",
+            "et" : "meditsiiniteaduste valdkond"
+          },
+          "level" : 1,
+          "academic" : true,
+          "supports_continuous_learning" : true
+        },
+        "is_coordinating" : true,
+        "is_active" : true
+      } ],
+      "is_active" : true
+    } ]
+  },
+  "degree" : {
+    "graduation_document_type" : {
+      "code" : "2",
+      "et" : "Kutsetunnistus",
+      "en" : "certificate"
+    },
+    "committees" : [ {
+      "since_date" : "2001-04-27",
+      "is_active" : true
+    } ],
+    "specialties" : [ {
+      "code" : "1fc119439976fb4bc46fc181841dee41",
+      "title" : {
+        "en" : "Orthopaedics",
+        "et" : "Ortopeedia"
+      }
+    } ]
+  },
+  "confirmation" : {
+    "confirmed_date_at_council_senat" : "2001-04-27",
+    "registration_date_at_ministry" : "2002-05-31"
+  },
+  "_actions" : {
+    "is_version_creatable" : false,
+    "is_deletable" : false,
+    "is_editable" : false
+  }
+}

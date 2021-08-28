@@ -1,0 +1,76 @@
+{
+  "uuid" : "e57289d4-dc7e-02ad-2ba9-4c16c91c09e6",
+  "code" : "LOKT.01.040",
+  "state" : {
+    "code" : "confirmed",
+    "et" : "Kinnitatud",
+    "en" : "confirmed"
+  },
+  "last_update" : "2019-09-12T11:59:11",
+  "title" : {
+    "en" : "School Chemistry",
+    "et" : "Koolikeemia"
+  },
+  "credits" : 3,
+  "general" : {
+    "input_languages" : [ {
+      "code" : "et",
+      "et" : "eesti keel",
+      "en" : "Estonian"
+    } ],
+    "structural_unit_shares" : [ {
+      "structural_unit_code" : "LTKT01",
+      "structural_unit_name" : {
+        "en" : "Chair of Inorganic Chemistry",
+        "et" : "anorgaanilise keemia õppetool"
+      },
+      "course_share_percent" : 100,
+      "coordinating" : true
+    } ],
+    "type" : {
+      "code" : "regular",
+      "et" : "Tavaline aine",
+      "en" : "Regular course"
+    },
+    "structural_units" : [ {
+      "code" : "LTKT01",
+      "name" : {
+        "en" : "Chair of Inorganic Chemistry",
+        "et" : "anorgaanilise keemia õppetool"
+      },
+      "level" : 3,
+      "academic" : true,
+      "supports_continuous_learning" : false,
+      "parent_code" : "LTKT"
+    } ]
+  },
+  "additional_info" : {
+    "duration_in_semesters" : 1,
+    "assessment_scale" : {
+      "code" : "grade",
+      "et" : "Eristav (A, B, C, D, E, F, mi)",
+      "en" : "differentiated (A, B, C, D, E, F, not present)"
+    },
+    "is_vota_course" : true,
+    "is_continuous_learning_course" : false
+  },
+  "overview" : {
+    "description" : {
+      "en" : "The theoretical basis and main goals of teaching chemistry at school are discussed. The typical mistakes and misconceptions of students are pointed out.",
+      "et" : "Kursuse eesmärk on tutvustada tulevastele keemiapedagoogidele üldhariduskoolide keemia ainekava põhimõtteid ja õpilastelt nõutavaid õpitulemusi. Käsitletakse õpilaste ettevalmistamist keemia riigieksamiks, õpetatakse koostama vastavaid harjutusküsimusi ja ülesandeid. Üliõpilased teevad ühe koolikeemia teema käsitlemise eesmärkide, nõutavate õpitulemuste ja kasutatavate õppemeetodite kohta ettekande."
+    },
+    "objectives" : [ {
+      "en" : "To give an overview of main problems of teaching chemistry at school.",
+      "et" : "Anda ülevaade koolikeemia põhiprobleemidest."
+    } ],
+    "learning_outcomes" : [ {
+      "en" : "Student having passed the course, \n1.knows the content and theoretical fundamentals of the courses of chemistry in basic school and gymnasium,\n2.knows the main goals of the chemistry teaching and the knowledge acquired  in school chemistry,\n3.is able to apply his knowledge in the explanation of chemistry problems and to compose problem excercises for students,\n4.is able to connect the problems of school chemistry with the problems of everyday life and of other natural scienses.",
+      "et" : "Kursuse läbinud üliõpilane \n1.tunneb põhikooli ja gümnaasiumi keemiakursuste sisu ja teoreetilisi põhialuseid,\n2.teab keemiaõpetuse eesmärke üldhariduskoolis ja põhilisi nõutavaid õpitulemusi,\n3.oskab rakendada oma teadmisi koolikeemia probleemide selgitamisel ja koostada vastavaid probleemülesandeid õpilastele,\n4.oskab seostada koolikeemias käsitletavaid probleeme argielu ning teiste loodusteaduste probleemidega.\n5. Ainealased õpiväljundid on samad, mis gümnaasiumi keemia riiklikus õppekavas."
+    } ]
+  },
+  "_actions" : {
+    "is_editable" : false,
+    "is_version_creatable" : false,
+    "is_deletable" : false
+  }
+}

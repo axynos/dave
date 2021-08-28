@@ -1,0 +1,2363 @@
+{
+  "uuid" : "94bcf476-dcd2-b293-92db-62f9f5d4bc80",
+  "last_update" : "2021-04-28T11:30:37",
+  "info" : {
+    "type" : {
+      "code" : "1",
+      "et" : "Tunniplaan",
+      "en" : "Course schedule"
+    },
+    "year" : {
+      "code" : "2021",
+      "et" : "2021/2022",
+      "en" : "2021/2022"
+    },
+    "semester" : {
+      "code" : "autumn",
+      "et" : "sügis",
+      "en" : "autumn"
+    },
+    "state" : {
+      "code" : "confirmed",
+      "et" : "Kinnitatud",
+      "en" : "confirmed"
+    },
+    "structural_unit" : {
+      "code" : "LT",
+      "name" : {
+        "en" : "Faculty of Science and Technology",
+        "et" : "loodus- ja täppisteaduste valdkond"
+      },
+      "level" : 1,
+      "academic" : true,
+      "supports_continuous_learning" : true
+    },
+    "title" : {
+      "en" : "mag: GEM Erasmus+",
+      "et" : "mag: GEM Erasmus+"
+    },
+    "notes" : { }
+  },
+  "course_events" : [ {
+    "info" : {
+      "course_uuid" : "999bbc8e-c12a-9486-4ad5-c194ee69b806",
+      "course_version_uuid" : "ccf881f0-7b85-95bb-d232-6b22c30c5d0c",
+      "course_code" : "LTOM.02.006",
+      "title" : {
+        "en" : "Energy Flows and Material Cycles",
+        "et" : "Energiavood ja aineringed"
+      },
+      "credits" : 3,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "e6eab6dc-957a-77f4-f713-9971307d1321",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "a7a52ae6-391a-b2ce-3493-50f9d369c74c",
+        "academic_weeks" : "2-8"
+      } ],
+      "time" : {
+        "academic_weeks" : "2-8",
+        "weekday" : {
+          "code" : "1",
+          "et" : "Esmaspäev",
+          "en" : "Monday"
+        },
+        "since_date" : "2021-09-06",
+        "until_date" : "2021-10-18",
+        "begin_time" : "16:15:00",
+        "end_time" : "18:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "810ca72d-e9b3-9c9a-22a3-5e84d2d374d3",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "a7a52ae6-391a-b2ce-3493-50f9d369c74c",
+        "academic_weeks" : "2-8"
+      } ],
+      "time" : {
+        "academic_weeks" : "2-8",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2021-09-07",
+        "until_date" : "2021-10-19",
+        "begin_time" : "12:15:00",
+        "end_time" : "14:00:00"
+      },
+      "location" : {
+        "location_uuid" : "d5c4de19-58e2-cadc-2fc7-13dc58087a1b",
+        "address" : "Vanemuise 46 - 327"
+      },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "bf7f32cd-f721-791f-1078-86ada2d15eee",
+      "person_name" : "Jaak Jaagus",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "a7a52ae6-391a-b2ce-3493-50f9d369c74c",
+      "person_name" : "Ülo Mander",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "f30a5c1a-f4a7-d7bc-d840-0d2b4ee6fedb",
+      "person_name" : "Ivika Ostonen-Märtin",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "93e8be03-f482-c3d8-6aab-a2155919dbd3",
+      "person_name" : "Evelyn Uuemaa",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "dc322f0b-36dd-9d85-e3c7-b0881e26dc78",
+      "person_name" : "Jaan Pärn",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "4a97fb55-117e-88f6-8d3e-c5ce490c625b",
+      "course_version_uuid" : "baba9e35-86fd-2091-376a-5953019b98be",
+      "course_code" : "LTOM.02.012",
+      "title" : {
+        "en" : "Introduction to Geographic Information Systems",
+        "et" : "Geoinformaatika alused"
+      },
+      "credits" : 3,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "8ed40e82-c4ff-0b77-d3d2-1005433d988b",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "deeea328-c023-1d73-f8f1-960fab648db3",
+        "academic_weeks" : "3-10"
+      } ],
+      "time" : {
+        "academic_weeks" : "3-10",
+        "weekday" : {
+          "code" : "3",
+          "et" : "Kolmapäev",
+          "en" : "Wednesday"
+        },
+        "since_date" : "2021-09-15",
+        "until_date" : "2021-11-03",
+        "begin_time" : "12:15:00",
+        "end_time" : "14:00:00"
+      },
+      "location" : {
+        "location_uuid" : "16b767f6-f50b-06e5-7755-e658537c178c",
+        "address" : "Vanemuise 46 - 335"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "667df542-b94e-59d0-5423-b8675a06b2e4",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "deeea328-c023-1d73-f8f1-960fab648db3",
+        "academic_weeks" : "3-10"
+      } ],
+      "time" : {
+        "academic_weeks" : "3-10",
+        "weekday" : {
+          "code" : "4",
+          "et" : "Neljapäev",
+          "en" : "Thursday"
+        },
+        "since_date" : "2021-09-16",
+        "until_date" : "2021-11-04",
+        "begin_time" : "16:15:00",
+        "end_time" : "18:00:00"
+      },
+      "location" : {
+        "location_uuid" : "16b767f6-f50b-06e5-7755-e658537c178c",
+        "address" : "Vanemuise 46 - 335"
+      },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "deeea328-c023-1d73-f8f1-960fab648db3",
+      "person_name" : "Tõnu Oja",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "429b9d38-02e1-2fd9-9ba0-0a307f08e38a",
+      "course_version_uuid" : "df1560a6-4f7e-9d42-32f3-bb2040316d0a",
+      "course_code" : "LTOM.02.011",
+      "title" : {
+        "en" : "Spatial Data Studio",
+        "et" : "Ruumiandmete stuudio"
+      },
+      "credits" : 15,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "aa7ad670-b7d0-dd5b-d793-7d0822610d34",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "93e8be03-f482-c3d8-6aab-a2155919dbd3",
+        "academic_weeks" : "3-16"
+      } ],
+      "time" : {
+        "academic_weeks" : "3-16",
+        "weekday" : {
+          "code" : "1",
+          "et" : "Esmaspäev",
+          "en" : "Monday"
+        },
+        "since_date" : "2021-09-13",
+        "until_date" : "2021-12-13",
+        "begin_time" : "13:15:00",
+        "end_time" : "16:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "14df85d6-7924-8120-f317-e577fa1c6165",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "93e8be03-f482-c3d8-6aab-a2155919dbd3",
+        "academic_weeks" : "3-16"
+      } ],
+      "time" : {
+        "academic_weeks" : "3-16",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2021-09-14",
+        "until_date" : "2021-12-14",
+        "begin_time" : "09:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "8a072761-1653-19ef-ba09-f03ab1ede61a",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "seminar",
+        "et" : "seminar",
+        "en" : "seminar"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "93e8be03-f482-c3d8-6aab-a2155919dbd3",
+        "academic_weeks" : "3-16"
+      } ],
+      "time" : {
+        "academic_weeks" : "3-16",
+        "weekday" : {
+          "code" : "5",
+          "et" : "Reede",
+          "en" : "Friday"
+        },
+        "since_date" : "2021-09-17",
+        "until_date" : "2021-12-17",
+        "begin_time" : "14:15:00",
+        "end_time" : "17:00:00"
+      },
+      "location" : {
+        "location_uuid" : "16b767f6-f50b-06e5-7755-e658537c178c",
+        "address" : "Vanemuise 46 - 335"
+      },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "93e8be03-f482-c3d8-6aab-a2155919dbd3",
+      "person_name" : "Evelyn Uuemaa",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "65e07dbe-ccf1-886b-3a5a-05840c95d2fc",
+      "person_name" : "Alexander Kmoch",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "51460b01-cdd3-0940-8735-d060326ff386",
+      "course_version_uuid" : "88ba73bc-5677-cc53-6103-19b687801688",
+      "course_code" : "LOOM.02.347",
+      "title" : {
+        "en" : "Introduction to Urban Planning",
+        "et" : "Linnaplaneerimise alused"
+      },
+      "credits" : 2,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "0e9ab908-a775-ea9e-470c-bd6ca63c5951",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "41b726a9-3020-6731-d0e7-6899a43b5d92",
+        "academic_weeks" : "16"
+      } ],
+      "time" : {
+        "academic_weeks" : "16",
+        "weekday" : {
+          "code" : "3",
+          "et" : "Kolmapäev",
+          "en" : "Wednesday"
+        },
+        "since_date" : "2021-12-15",
+        "until_date" : "2021-12-15",
+        "begin_time" : "16:15:00",
+        "end_time" : "18:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : {
+        "et" : "web lecture"
+      }
+    }, {
+      "uuid" : "0c0d1d1f-9b03-8fa9-caae-213adbfddbda",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "41b726a9-3020-6731-d0e7-6899a43b5d92",
+        "academic_weeks" : "20"
+      } ],
+      "time" : {
+        "academic_weeks" : "20",
+        "weekday" : {
+          "code" : "1",
+          "et" : "Esmaspäev",
+          "en" : "Monday"
+        },
+        "since_date" : "2022-01-10",
+        "until_date" : "2022-01-10",
+        "begin_time" : "14:15:00",
+        "end_time" : "16:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "8d3a758a-22cb-6abe-2ec2-1e16e32b69d6",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "41b726a9-3020-6731-d0e7-6899a43b5d92",
+        "academic_weeks" : "20"
+      } ],
+      "time" : {
+        "academic_weeks" : "20",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2022-01-11",
+        "until_date" : "2022-01-11",
+        "begin_time" : "10:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "12b713b0-3214-147e-ea07-261ee37e124d",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "41b726a9-3020-6731-d0e7-6899a43b5d92",
+        "academic_weeks" : "20"
+      } ],
+      "time" : {
+        "academic_weeks" : "20",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2022-01-11",
+        "until_date" : "2022-01-11",
+        "begin_time" : "14:15:00",
+        "end_time" : "16:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "6f10a21e-0244-8769-da0f-011220212782",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "41b726a9-3020-6731-d0e7-6899a43b5d92",
+        "academic_weeks" : "20"
+      } ],
+      "time" : {
+        "academic_weeks" : "20",
+        "weekday" : {
+          "code" : "3",
+          "et" : "Kolmapäev",
+          "en" : "Wednesday"
+        },
+        "since_date" : "2022-01-12",
+        "until_date" : "2022-01-12",
+        "begin_time" : "10:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "26c9cf46-0380-8777-34e0-26b6de34ddbb",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "41b726a9-3020-6731-d0e7-6899a43b5d92",
+        "academic_weeks" : "20"
+      } ],
+      "time" : {
+        "academic_weeks" : "20",
+        "weekday" : {
+          "code" : "4",
+          "et" : "Neljapäev",
+          "en" : "Thursday"
+        },
+        "since_date" : "2022-01-13",
+        "until_date" : "2022-01-13",
+        "begin_time" : "10:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "b1b3db94-a9c6-8f6b-1dec-c42afd53ff79",
+      "person_name" : "Tiit Tammaru",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "1c2f2352-5815-fa47-ce43-8c3b1af84445",
+      "person_name" : "Madli-Johanna Maidla",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "41b726a9-3020-6731-d0e7-6899a43b5d92",
+      "person_name" : "Daniel Baldwin Hess",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "053d4875-2bfa-7d19-6949-4a99598cf29c",
+      "course_version_uuid" : "25c1520c-9913-34fa-3f8f-26d2b73b8936",
+      "course_code" : "LTOM.02.030",
+      "title" : {
+        "en" : "Demography, Global Migration and Contemporary Cities",
+        "et" : "Demograafia, globaalne ränne ja linnad"
+      },
+      "credits" : 6,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "ccb478da-fdbc-dcf0-fb39-471f4b026c99",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "b1b3db94-a9c6-8f6b-1dec-c42afd53ff79",
+        "academic_weeks" : "6"
+      }, {
+        "person_uuid" : "5246ca45-9155-b7fb-a6e3-07f519f35faf",
+        "academic_weeks" : "6"
+      }, {
+        "person_uuid" : "aad3b619-1729-7d0f-1394-5a487b0cd2c5",
+        "academic_weeks" : "6"
+      } ],
+      "time" : {
+        "academic_weeks" : "6",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2021-10-05",
+        "until_date" : "2021-10-05",
+        "begin_time" : "14:15:00",
+        "end_time" : "16:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "5e9a4693-bb56-61ca-4120-f16c368f207c",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "e-learning",
+        "et" : "e-õpe",
+        "en" : "e-learning"
+      },
+      "time" : {
+        "academic_weeks" : "6,10,12,14",
+        "weekday" : {
+          "code" : "3",
+          "et" : "Kolmapäev",
+          "en" : "Wednesday"
+        },
+        "since_date" : "2021-10-06",
+        "until_date" : "2021-12-01"
+      },
+      "location" : { },
+      "notes" : {
+        "et" : "web lectures"
+      }
+    }, {
+      "uuid" : "0e93c0b6-e60f-0c0d-4c57-4bd7b2cc5ba6",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "seminar",
+        "et" : "seminar",
+        "en" : "seminar"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "b1b3db94-a9c6-8f6b-1dec-c42afd53ff79",
+        "academic_weeks" : "7,9"
+      }, {
+        "person_uuid" : "5246ca45-9155-b7fb-a6e3-07f519f35faf",
+        "academic_weeks" : "7,9"
+      } ],
+      "time" : {
+        "academic_weeks" : "7,9",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2021-10-12",
+        "until_date" : "2021-10-26",
+        "begin_time" : "14:15:00",
+        "end_time" : "16:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { },
+      "group_uuids" : [ "ee0359b2-6dba-c9da-902b-b85d73649fc6" ]
+    }, {
+      "uuid" : "dbb10354-262a-cf26-b3a4-fae88d94023a",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "e-learning",
+        "et" : "e-õpe",
+        "en" : "e-learning"
+      },
+      "time" : {
+        "academic_weeks" : "8,10,12,14",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2021-10-19",
+        "until_date" : "2021-11-30"
+      },
+      "location" : { },
+      "notes" : {
+        "et" : "web lectures"
+      }
+    }, {
+      "uuid" : "6ff20432-07cf-8262-a720-26b6c55067fe",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "seminar",
+        "et" : "seminar",
+        "en" : "seminar"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "b1b3db94-a9c6-8f6b-1dec-c42afd53ff79",
+        "academic_weeks" : "11,13,15,16"
+      }, {
+        "person_uuid" : "5246ca45-9155-b7fb-a6e3-07f519f35faf",
+        "academic_weeks" : "11,13,15,16"
+      } ],
+      "time" : {
+        "academic_weeks" : "11,13,15,16",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2021-11-09",
+        "until_date" : "2021-12-14",
+        "begin_time" : "12:15:00",
+        "end_time" : "14:00:00"
+      },
+      "location" : {
+        "location_uuid" : "60a6bbeb-438a-f938-547b-beffdfd720e1",
+        "address" : "Vanemuise 46 - 246"
+      },
+      "notes" : { },
+      "group_uuids" : [ "ee0359b2-6dba-c9da-902b-b85d73649fc6" ]
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "b1b3db94-a9c6-8f6b-1dec-c42afd53ff79",
+      "person_name" : "Tiit Tammaru",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "aad3b619-1729-7d0f-1394-5a487b0cd2c5",
+      "person_name" : "Kadri Leetmaa",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "5246ca45-9155-b7fb-a6e3-07f519f35faf",
+      "person_name" : "Kadi Kalm",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "1c2f2352-5815-fa47-ce43-8c3b1af84445",
+      "person_name" : "Madli-Johanna Maidla",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ],
+    "groups" : {
+      "ee0359b2-6dba-c9da-902b-b85d73649fc6" : "GG",
+      "623d17b7-3328-6ce9-76b0-08a14f715235" : "Aasia + ATI"
+    }
+  }, {
+    "info" : {
+      "course_uuid" : "153b305c-4671-e4ef-1062-a113127d4110",
+      "course_version_uuid" : "4040f78a-080b-21bd-a30f-e2e3cdeffa77",
+      "course_code" : "LTOM.02.041",
+      "title" : {
+        "en" : "Geospatial Analysis with Python and R",
+        "et" : "Ruumiandmete analüüs Pythoni ja R-iga"
+      },
+      "credits" : 6,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "ba0becbe-ad34-be6f-0f08-91d900aeab39",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "7c872456-f467-6fa4-8b38-04006432f0a1",
+        "academic_weeks" : "4-13,15-16"
+      }, {
+        "person_uuid" : "65e07dbe-ccf1-886b-3a5a-05840c95d2fc",
+        "academic_weeks" : "4-13,15-16"
+      } ],
+      "time" : {
+        "academic_weeks" : "4-13,15-16",
+        "weekday" : {
+          "code" : "3",
+          "et" : "Kolmapäev",
+          "en" : "Wednesday"
+        },
+        "since_date" : "2021-09-22",
+        "until_date" : "2021-12-15",
+        "begin_time" : "14:15:00",
+        "end_time" : "16:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "be1ca099-7575-3869-4f46-15d6358a5e39",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "7c872456-f467-6fa4-8b38-04006432f0a1",
+        "academic_weeks" : "4-16"
+      }, {
+        "person_uuid" : "65e07dbe-ccf1-886b-3a5a-05840c95d2fc",
+        "academic_weeks" : "4-16"
+      } ],
+      "time" : {
+        "academic_weeks" : "4-16",
+        "weekday" : {
+          "code" : "5",
+          "et" : "Reede",
+          "en" : "Friday"
+        },
+        "since_date" : "2021-09-24",
+        "until_date" : "2021-12-17",
+        "begin_time" : "12:15:00",
+        "end_time" : "14:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "7c872456-f467-6fa4-8b38-04006432f0a1",
+      "person_name" : "Anto Aasa",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "006d02d8-f00b-74cf-1e42-7958aec51082",
+      "person_name" : "Holger Virro",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "d5c84d7e-0dfa-339b-3722-90a16a33855c",
+      "person_name" : "Iuliia Burdun",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "65e07dbe-ccf1-886b-3a5a-05840c95d2fc",
+      "person_name" : "Alexander Kmoch",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "52efa3be-308a-69f5-af76-04f15b2a56b1",
+      "course_version_uuid" : "718fd638-f892-072c-4c62-a19b67b03273",
+      "course_code" : "LTOM.02.015",
+      "title" : {
+        "en" : "ArcGIS Software",
+        "et" : "Tarkvara ArcGIS"
+      },
+      "credits" : 3,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "f5f0f4ac-23fd-0a49-87e3-1fd67d4d4236",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+        "academic_weeks" : "2"
+      } ],
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "1",
+          "et" : "Esmaspäev",
+          "en" : "Monday"
+        },
+        "since_date" : "2021-09-06",
+        "until_date" : "2021-09-06",
+        "begin_time" : "09:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "90b95d34-41e3-2e82-91a6-9c3bd2ef4671",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "1",
+          "et" : "Esmaspäev",
+          "en" : "Monday"
+        },
+        "since_date" : "2021-09-06",
+        "until_date" : "2021-09-06",
+        "begin_time" : "12:15:00",
+        "end_time" : "16:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : {
+        "et" : "Independent work"
+      }
+    }, {
+      "uuid" : "6894f577-ad74-86ef-fd30-09253f1e57a4",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+        "academic_weeks" : "2"
+      } ],
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2021-09-07",
+        "until_date" : "2021-09-07",
+        "begin_time" : "09:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "2a5c55c5-8483-e8ff-bc74-e2f42704e20c",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "2",
+          "et" : "Teisipäev",
+          "en" : "Tuesday"
+        },
+        "since_date" : "2021-09-07",
+        "until_date" : "2021-09-07",
+        "begin_time" : "14:15:00",
+        "end_time" : "16:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : {
+        "et" : "Independent work"
+      }
+    }, {
+      "uuid" : "985b880b-6447-9241-c2fc-994b5423fd3d",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+        "academic_weeks" : "2"
+      } ],
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "3",
+          "et" : "Kolmapäev",
+          "en" : "Wednesday"
+        },
+        "since_date" : "2021-09-08",
+        "until_date" : "2021-09-08",
+        "begin_time" : "09:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "d8a1ea02-78f9-2cec-b90d-7c40cfc113c4",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "3",
+          "et" : "Kolmapäev",
+          "en" : "Wednesday"
+        },
+        "since_date" : "2021-09-08",
+        "until_date" : "2021-09-08",
+        "begin_time" : "14:15:00",
+        "end_time" : "18:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : {
+        "et" : "Independent work"
+      }
+    }, {
+      "uuid" : "564e1de3-d56c-c0dc-6f5f-3e916a372f2b",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+        "academic_weeks" : "2"
+      } ],
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "4",
+          "et" : "Neljapäev",
+          "en" : "Thursday"
+        },
+        "since_date" : "2021-09-09",
+        "until_date" : "2021-09-09",
+        "begin_time" : "09:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "0d3f215a-3c39-c003-716c-efa59e761341",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "4",
+          "et" : "Neljapäev",
+          "en" : "Thursday"
+        },
+        "since_date" : "2021-09-09",
+        "until_date" : "2021-09-09",
+        "begin_time" : "12:15:00",
+        "end_time" : "18:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : {
+        "et" : "Independent work"
+      }
+    }, {
+      "uuid" : "26be3745-456b-0efe-aa1e-52051bc1a8b7",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+        "academic_weeks" : "2"
+      } ],
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "5",
+          "et" : "Reede",
+          "en" : "Friday"
+        },
+        "since_date" : "2021-09-10",
+        "until_date" : "2021-09-10",
+        "begin_time" : "12:15:00",
+        "end_time" : "15:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "0eca0fe8-923f-3bfa-7a0b-f14b29433a72",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "time" : {
+        "academic_weeks" : "2",
+        "weekday" : {
+          "code" : "5",
+          "et" : "Reede",
+          "en" : "Friday"
+        },
+        "since_date" : "2021-09-10",
+        "until_date" : "2021-09-10",
+        "begin_time" : "16:15:00",
+        "end_time" : "18:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : {
+        "et" : "Independent work"
+      }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+      "person_name" : "Kiira Mõisja",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "0e0c20ff-12a0-a2b3-8556-3a19911a8d7c",
+      "course_version_uuid" : "46c7fd88-792c-cd6b-1182-5ce58053e022",
+      "course_code" : "LTOM.02.042",
+      "title" : {
+        "en" : "3D Modelling and Analysis",
+        "et" : "3D modelleerimine ja analüüs"
+      },
+      "credits" : 6,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "91cd5488-edc5-35a2-d351-a4fd80b39a27",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "cbc21769-436c-11cb-607f-b2398cf9b4db",
+        "academic_weeks" : "9-16"
+      } ],
+      "time" : {
+        "academic_weeks" : "9-16",
+        "weekday" : {
+          "code" : "4",
+          "et" : "Neljapäev",
+          "en" : "Thursday"
+        },
+        "since_date" : "2021-10-28",
+        "until_date" : "2021-12-16",
+        "begin_time" : "14:15:00",
+        "end_time" : "17:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "a0cbf41e-569b-93e7-8ad6-04f10cd9ad75",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "cbc21769-436c-11cb-607f-b2398cf9b4db",
+        "academic_weeks" : "19-21"
+      } ],
+      "time" : {
+        "academic_weeks" : "19-21",
+        "weekday" : {
+          "code" : "4",
+          "et" : "Neljapäev",
+          "en" : "Thursday"
+        },
+        "since_date" : "2022-01-06",
+        "until_date" : "2022-01-20",
+        "begin_time" : "14:15:00",
+        "end_time" : "17:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "45df3df1-2806-a790-015d-e0b00a35913f",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "cbc21769-436c-11cb-607f-b2398cf9b4db",
+        "academic_weeks" : "21"
+      } ],
+      "time" : {
+        "academic_weeks" : "21",
+        "weekday" : {
+          "code" : "5",
+          "et" : "Reede",
+          "en" : "Friday"
+        },
+        "since_date" : "2022-01-21",
+        "until_date" : "2022-01-21",
+        "begin_time" : "14:15:00",
+        "end_time" : "17:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "cbc21769-436c-11cb-607f-b2398cf9b4db",
+      "person_name" : "Raivo Aunap",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "7076e14e-affc-ad2f-d838-8839b5585311",
+      "course_version_uuid" : "a8e220f4-f1ef-19b6-9f70-ed2c8d930e4c",
+      "course_code" : "LTOM.02.040",
+      "title" : {
+        "en" : "Spatial Databases",
+        "et" : "Ruumiandmebaasid"
+      },
+      "credits" : 6,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "aa91cebd-6866-d64a-ee9e-ba165c580ded",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "851f4f98-e6ce-5ed8-ce9f-9b4e82363a83",
+        "academic_weeks" : "6-13"
+      } ],
+      "time" : {
+        "academic_weeks" : "6-13",
+        "weekday" : {
+          "code" : "1",
+          "et" : "Esmaspäev",
+          "en" : "Monday"
+        },
+        "since_date" : "2021-10-04",
+        "until_date" : "2021-11-22",
+        "begin_time" : "08:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "1896f829-a763-a8b4-d023-5445f866e728",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "851f4f98-e6ce-5ed8-ce9f-9b4e82363a83",
+        "academic_weeks" : "6-8"
+      } ],
+      "time" : {
+        "academic_weeks" : "6-8",
+        "weekday" : {
+          "code" : "4",
+          "et" : "Neljapäev",
+          "en" : "Thursday"
+        },
+        "since_date" : "2021-10-07",
+        "until_date" : "2021-10-21",
+        "begin_time" : "10:15:00",
+        "end_time" : "14:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "64567f61-eab0-f598-2659-228ed4515281",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "practice",
+        "et" : "praktikum",
+        "en" : "practical session"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "851f4f98-e6ce-5ed8-ce9f-9b4e82363a83",
+        "academic_weeks" : "9-13"
+      } ],
+      "time" : {
+        "academic_weeks" : "9-13",
+        "weekday" : {
+          "code" : "4",
+          "et" : "Neljapäev",
+          "en" : "Thursday"
+        },
+        "since_date" : "2021-10-28",
+        "until_date" : "2021-11-25",
+        "begin_time" : "08:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    }, {
+      "uuid" : "3460c903-7e6a-dd74-f859-5c4139fd5a13",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "seminar",
+        "et" : "seminar",
+        "en" : "seminar"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "851f4f98-e6ce-5ed8-ce9f-9b4e82363a83",
+        "academic_weeks" : "14-15"
+      } ],
+      "time" : {
+        "academic_weeks" : "14-15",
+        "weekday" : {
+          "code" : "1",
+          "et" : "Esmaspäev",
+          "en" : "Monday"
+        },
+        "since_date" : "2021-11-29",
+        "until_date" : "2021-12-06",
+        "begin_time" : "08:15:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "location_uuid" : "e748c1d9-87e0-c3e6-d8f9-6f72b06d5876",
+        "address" : "Vanemuise 46 - 202"
+      },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "7c872456-f467-6fa4-8b38-04006432f0a1",
+      "person_name" : "Anto Aasa",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+      "person_name" : "Kiira Mõisja",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "851f4f98-e6ce-5ed8-ce9f-9b4e82363a83",
+      "person_name" : "Valentina Sagris",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "b110cb5a-5f2e-0601-2cce-a6fb7e6a6395",
+      "person_name" : "Isaac Newton Kwasi Buo",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "65e07dbe-ccf1-886b-3a5a-05840c95d2fc",
+      "person_name" : "Alexander Kmoch",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "432e6f5d-50bb-d147-8b2e-6ee01743fd92",
+      "course_version_uuid" : "ddb7c778-67bb-73d3-b8b1-8a5da9124a15",
+      "course_code" : "LTTO.00.027",
+      "title" : {
+        "en" : "Data Science in Remote Sensing",
+        "et" : "Andmeteadus kaugseires"
+      },
+      "credits" : 6,
+      "structural_unit" : {
+        "code" : "LT",
+        "name" : {
+          "en" : "Faculty of Science and Technology",
+          "et" : "loodus- ja täppisteaduste valdkond"
+        },
+        "level" : 1,
+        "academic" : true,
+        "supports_continuous_learning" : true
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "et",
+        "et" : "eesti keel",
+        "en" : "Estonian"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "d606d409-3f54-8009-1b5d-509567f37909",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "lecture",
+        "et" : "loeng",
+        "en" : "lecture"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "0562ecf5-84c5-77f4-6443-037765be0f51",
+        "academic_weeks" : "3-15"
+      } ],
+      "time" : {
+        "academic_weeks" : "3-15",
+        "weekday" : {
+          "code" : "3",
+          "et" : "Kolmapäev",
+          "en" : "Wednesday"
+        },
+        "since_date" : "2021-09-15",
+        "until_date" : "2021-12-08",
+        "begin_time" : "09:00:00",
+        "end_time" : "12:00:00"
+      },
+      "location" : {
+        "address" : "Narva mnt 18 - 1022"
+      },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "5973aa82-cea2-cec4-c3b0-9a7e290a7009",
+      "person_name" : "Kersti Kangro",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "3925771b-2ddd-f4eb-bbb4-26c03c4d113a",
+      "person_name" : "Joel Kuusk",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "0562ecf5-84c5-77f4-6443-037765be0f51",
+      "person_name" : "Krista Alikas",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "629859b5-abea-f5c3-1f5d-f1a44685c11a",
+      "person_name" : "Kaupo Voormansik",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "294cb228-64cf-c389-9a56-d69d20018c02",
+      "person_name" : "Mait Lang",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "5c76fe5b-3750-1250-b02a-b9b16cf4d02a",
+      "person_name" : "Martin Ligi",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "2441d287-80c6-f84a-aa25-c5387d282827",
+      "person_name" : "Mihkel Kaha",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "cffa1225-f5b0-2316-74b2-c67240c9a365",
+      "person_name" : "Jan Pisek",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "f0129ee0-112e-3fd3-eaae-db9e7f5f67b6",
+      "person_name" : "Ave Ansper-Toomsalu",
+      "is_responsible" : false,
+      "is_teaching" : false
+    }, {
+      "person_uuid" : "c3fdf6b5-852e-7be9-7302-df46223ff3b5",
+      "person_name" : "Jan Peter George",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  }, {
+    "info" : {
+      "course_uuid" : "a90e1bce-eef1-4b4f-253a-74e81480ecc3",
+      "course_version_uuid" : "71a87908-581e-c06a-0ed9-4f974ae71b1b",
+      "course_code" : "LTOM.02.034",
+      "title" : {
+        "en" : "QGIS with Fundamentals of GIS",
+        "et" : "Vabavara QGIS geoinformaatika alustega"
+      },
+      "credits" : 3,
+      "structural_unit" : {
+        "code" : "LTOM",
+        "name" : {
+          "en" : "Institute of Ecology and Earth Sciences",
+          "et" : "ökoloogia ja maateaduste instituut"
+        },
+        "email" : "om@ut.ee",
+        "phone" : "+372 737 5835",
+        "webpage_url" : "http://www.omi.ut.ee",
+        "address" : "Vanemuise 46, 51003,  Tartu linn, Tartu linn, Tartumaa, Eesti",
+        "city" : "Tartu linn",
+        "street" : "Vanemuise 46",
+        "zip" : "51003",
+        "level" : 2,
+        "academic" : true,
+        "supports_continuous_learning" : true,
+        "parent_code" : "LT"
+      },
+      "year" : {
+        "code" : "2021",
+        "et" : "2021/2022",
+        "en" : "2021/2022"
+      },
+      "semester" : {
+        "code" : "autumn",
+        "et" : "sügis",
+        "en" : "autumn"
+      },
+      "study_type" : {
+        "code" : "fulltime",
+        "et" : "päevaõpe",
+        "en" : "regular studies"
+      },
+      "language" : {
+        "code" : "en",
+        "et" : "inglise keel",
+        "en" : "English"
+      },
+      "part" : {
+        "code" : "0",
+        "et" : "Osadeta",
+        "en" : "None"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      }
+    },
+    "events" : [ {
+      "uuid" : "2650d367-c7e9-8502-71bf-6ae94cf6e077",
+      "event_type" : {
+        "code" : "lecture",
+        "et" : "õppetund",
+        "en" : "lecture"
+      },
+      "state" : {
+        "code" : "confirmed",
+        "et" : "Kinnitatud",
+        "en" : "confirmed"
+      },
+      "study_work_type" : {
+        "code" : "e-learning",
+        "et" : "e-õpe",
+        "en" : "e-learning"
+      },
+      "lecturers" : [ {
+        "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+        "academic_weeks" : "1"
+      } ],
+      "time" : {
+        "academic_weeks" : "1",
+        "since_date" : "2021-08-30",
+        "until_date" : "2021-09-05"
+      },
+      "location" : { },
+      "notes" : { }
+    } ],
+    "lecturers" : [ {
+      "person_uuid" : "380058df-858e-6ce9-addd-5380e7f3ee6c",
+      "person_name" : "Kiira Mõisja",
+      "is_responsible" : false,
+      "is_teaching" : false
+    } ]
+  } ]
+}
