@@ -7,20 +7,9 @@
   "name": "Course Versions",
   "description": "",
   "method": "GET",
-  "body": {
-    "mimeType": "application/json",
-    "text": [
-      "{}"
-    ]
-  },
+  "body": {},
   "parameters": [],
-  "headers": [
-    {
-      "name": "Content-Type",
-      "value": "application/json",
-      "id": "pair_5b1dc917ae334c97a9a5b1b3c9d425ea"
-    }
-  ],
+  "headers": [],
   "authentication": {},
   "metaSortKey": -1625993226585.1875,
   "isPrivate": false,
