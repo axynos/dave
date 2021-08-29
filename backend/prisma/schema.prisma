@@ -7,11 +7,83 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model courses {
-  uuid        String   @id @db.Uuid
-  state       String
-  last_update DateTime @db.Timestamptz(6)
-  code        String
-  title_et    String?
-  title_en    String?
+model Semester {
+  id                String      @id // year-code
+  start             DateTime    @db.Timestamptz(6)
+  end               DateTime    @db.Timestamptz(6)
+  registrationStart DateTime    @db.Timestamptz(6)
+  registrationEnd   DateTime    @db.Timestamptz(6)
+  academicYear      Int         @db.SmallInt
+  code              String // autumn/spring
+  updatedAt         DateTime    @updatedAt @db.Timestamptz(6)
+  timetables        Timetable[]
+}
+
+model StructuralUnit {
+  id        String      @id
+  nameET    String?
+  nameEN    String?
+  level     Int         @db.SmallInt
+  academic  Boolean
+  Timetable Timetable[]
+}
+
+model Timetable {
+  uuid             String         @id @db.Uuid
+  titleET          String?
+  titleEN          String?
+  lastUpdate       DateTime       @db.Timestamptz(6)
+  semester         Semester       @relation(fields: [semesterId], references: [id])
+  semesterId       String
+  structuralUnit   StructuralUnit @relation(fields: [structuralUnitId], references: [id])
+  structuralUnitId String
+}
+
+model Lecturer {
+  uuid       String  @id @db.Uuid
+  firstName  String?
+  lastName   String?
+  email      String?
+  phone      String?
+  jobTitle   String?
+  Course     Course? @relation(fields: [courseUuid], references: [uuid])
+  courseUuid String? @db.Uuid
+  Event      Event?  @relation(fields: [eventUuid], references: [uuid])
+  eventUuid  String? @db.Uuid
+}
+
+model Curriculum {
+  uuid      String  @id @db.Uuid
+  Event     Event?  @relation(fields: [eventUuid], references: [uuid])
+  eventUuid String? @db.Uuid
+}
+
+model Course {
+  uuid          String     @id @db.Uuid
+  state         String // only accept "confirmed"
+  updateAt      DateTime   @db.Timestamptz(6)
+  code          String
+  titleET       String?
+  titleEN       String?
+  lecturers     Lecturer[]
+  studyLanguage String? // estonian/english/?
+  studyLevel    String? // ?bachelor/master/?doctorate
+  studyType     String? // fulltime/parttime/?
+  webBased      String? // fully/partially/?
+  Event         Event[]
+}
+
+model Event {
+  uuid        String       @id @db.Uuid
+  type        String // lecture/seminar/?test/?exam
+  state       String // only accept "confirmed"
+  description String?
+  start       DateTime     @db.Timestamptz(6)
+  end         DateTime     @db.Timestamptz(6)
+  location    String?
+  registered  Int
+  course      Course       @relation(fields: [courseUuid], references: [uuid])
+  courseUuid  String       @db.Uuid
+  Lecturer    Lecturer[]
+  curriculums Curriculum[]
 }
