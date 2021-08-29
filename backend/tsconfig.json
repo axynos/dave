@@ -9,10 +9,10 @@
     "noFallthroughCasesInSwitch": true,
     "noPropertyAccessFromIndexSignature": true,
     "noUncheckedIndexedAccess": true,
-    "baseUrl": "./src",
+    "baseUrl": "./",
     "moduleResolution": "node"
   },
 
-  "include": ["src/**/*"],
+  "include": ["/**/*"],
   "exclude": ["node_modules", "build"]
 }

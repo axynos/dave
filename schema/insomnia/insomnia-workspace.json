@@ -2,7 +2,7 @@
   "_type": "export",
   "__export_format": 4,
   "__export_date": "2020-01-01T00:00:00.000Z",
-  "__export_source": "insomnia.desktop.app:v2021.4.1",
+  "__export_source": "insomnia.desktop.app:v2021.5.0",
   "resources": [
     {
       "_id": "wrk_351457423f39412e95134398d829e64a",
@@ -637,18 +637,9 @@
       "name": "Course Details",
       "description": "",
       "method": "GET",
-      "body": {
-        "mimeType": "application/json",
-        "text": "{}"
-      },
+      "body": {},
       "parameters": [],
-      "headers": [
-        {
-          "name": "Content-Type",
-          "value": "application/json",
-          "id": "pair_5b1dc917ae334c97a9a5b1b3c9d425ea"
-        }
-      ],
+      "headers": [],
       "authentication": {},
       "metaSortKey": -1626345301227.875,
       "isPrivate": false,
