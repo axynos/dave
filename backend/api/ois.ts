@@ -25,31 +25,13 @@ retry(base, {
   retryDelay: retry.exponentialDelay
 })
 
-const apis = {
+export const api = {
   academic: '/academic',
   timetable: '/timetable',
   courses: '/courses'
 }
 
-const routes = {
-  academic: {
-    semesterInfo: '/semester-info',
-    currentYear: '/year',
-    specificYear: (year: number) => `/year/${year}`
-  },
-  timetable: {
-    list: '/',
-    course: (versionId: string) => `/courses/${versionId}`
-  },
-  courses: {
-    list: '/',
-    details: (courseId: string) => `/${courseId}/details`,
-    version: (courseId: string, versionId: string) => `/${courseId}/versions/${versionId}`,
-    minVersions: (courseId: string) => `/${courseId}/versions/min`
-  }
-}
-
-const get = async (api: string, route: string) => {
+export const get = async (api: string, route: string) => {
   const path = `${api}/${route}`
   const response = await base.get(path)
   const data = response['data']
@@ -57,95 +39,14 @@ const get = async (api: string, route: string) => {
   return data
 }
 
-const post = async (api: string, route: string, options={}) => {
+export const post = async (api: string, route: string, requestData={}) => {
   const path = `${api}/${route}`
-  const response = await base.post(path, options)
+  const response = await base.post(path, requestData)
   const data = response.data
 
   return data
 }
 
-export const previousSemester = async () => {
-  const response = await get(apis.academic, routes.academic.semesterInfo)
-  const data = response['previous']
-  return data
-}
-
-export const currentSemester = async () => {
-  const response = await get(apis.academic, routes.academic.semesterInfo)
-  const data = response['current']
-  return data
-}
-
-export const nextSemester = async () => {
-  const response = await get(apis.academic, routes.academic.semesterInfo)
-  const data = response['next']
-  return data
-}
-
-export const currentAcademicYear = async () => {
-  const response = await get(apis.academic, routes.academic.currentYear)
-  return response
-}
-
-export const specificAcademicYear = async (year: number) => {
-  const response = await get(apis.academic, routes.academic.specificYear(year))
-  return response
-}
-
-export interface CourseListOptions {
-  academicYear?: number
-  lecturers?: string[] // lecturer uuid-s
-  statuses?: string[] // confirmed/archived etc
-  studyLevels?: string[] // bachelor/master
-  start?: number
-  take?: number
-}
-
-const defaultCourseListOptions = {
-  start: 1,
-  take: 10
-}
-
-export const courseList = async (options?: CourseListOptions) => {
-  // Anything passed to the function will either
-  // add a new property or overwrite the existing default.
-  const requestOptions = {
-    ...defaultCourseListOptions,
-    ...options
-  }
-
-  const response = await post(apis.courses, routes.courses.list, requestOptions)
-
-  return response
-}
-
-export const fullCourseList = async (options?: CourseListOptions) => {
-  const allCourses = ['hello']
-
-  return allCourses
-}
-
-export const courseVersionsMin = async (courseId: string) => {
-  const response = await get(apis.courses, routes.courses.minVersions(courseId))
-
-  return response
-}
-
-interface CourseVersion {
-  uuid: string
-  last_update: string
-}
-
-export const latestCourseVersion = async (courseId: string) => {
-  const minVersions = await courseVersionsMin(courseId)
-  const latest = minVersions.reduce((a: CourseVersion, b: CourseVersion) => (a.last_update > b.last_update ? a : b))
-
-  return latest
-}
-
-export const courseTimetable = async (versionId: string) => {
-  const timetable = await get(apis.timetable, routes.timetable.course(versionId))
-
-  return timetable
-}
+export * from './ois/courses'
+export * from './ois/timetable'
+export * from './ois/academic'
