@@ -39,7 +39,9 @@ const sync = async () => {
   const timetables = await Promise.all(timetableRequests)
   console.log('timetables:', timetables.length)
 
-  return `Found and requested data for ${timetables.length} timetables.`
+  console.log(`Found and requested data for ${timetables.length} timetables.`)
+
+  return timetables[0]
 }
 
 export default sync

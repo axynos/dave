@@ -9,7 +9,7 @@
     "noFallthroughCasesInSwitch": true,
     "noPropertyAccessFromIndexSignature": true,
     "noUncheckedIndexedAccess": true,
-    "baseUrl": "./",
+    "baseUrl": "src",
     "moduleResolution": "node"
   },
 

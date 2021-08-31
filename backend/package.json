@@ -9,8 +9,8 @@
     "start": "yarn run build && micro",
     "dev": "yarn run build && concurrently \"yarn run build:watch\" \"micro-dev\"",
     "dev:temp": "yarn run build && micro-dev",
-    "build": "rimraf build && ncc build sync.ts -o build --minify --v8-cache",
-    "build:watch": "ncc build sync.ts -o build --watch"
+    "build": "rimraf build && ncc build src/sync.ts -o build --minify --v8-cache",
+    "build:watch": "ncc build src/sync.ts -o build --watch"
   },
   "dependencies": {
     "@prisma/client": "^2.30.0",
