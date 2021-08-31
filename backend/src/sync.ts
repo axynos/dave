@@ -1,8 +1,10 @@
-import { fullCourseList, latestCourseVersion, courseTimetable, currentAcademicYear } from 'api/ois'
-import { Course, CourseVersion, CourseListOptions } from 'api/ois/types'
+import { currentSemester, fullCourseList, latestCourseVersion, courseTimetable, currentAcademicYear } from 'api/ois'
+import { CourseVersion, CourseListOptions } from 'types/ois'
+import { semesterAcademicWeeks } from 'lib/academicWeeks'
 
 const sync = async () => {
-  const year = (await currentAcademicYear())['academic_year']['code']
+  const semester = await currentSemester()
+  const year = Number.parseInt(semester['academic_year']['code'])
   console.log('academic year:', year)
 
   const courseListOptions: CourseListOptions = {
@@ -37,11 +39,15 @@ const sync = async () => {
   })
 
   const timetables = await Promise.all(timetableRequests)
-  console.log('timetables:', timetables.length)
 
+  console.log('timetable count:', timetables.length)
   console.log(`Found and requested data for ${timetables.length} timetables.`)
 
-  return timetables[0]
+  const weeks = semesterAcademicWeeks(semester)
+  console.log('academic weeks', weeks)
+
+  // return timetables[0]
+  return weeks
 }
 
 export default sync

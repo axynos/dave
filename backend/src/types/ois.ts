@@ -31,3 +31,18 @@ export interface CourseListOptions {
   start?: number
   take?: number
 }
+
+export interface AcademicYear {
+  code: string
+  en: string
+  et: string
+}
+
+// If we want to enable smart
+// semester detection, we will need
+// to add in the registration period property.
+export interface Semester {
+  start: string
+  end: string
+  academic_year: AcademicYear
+}

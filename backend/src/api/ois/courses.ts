@@ -1,5 +1,5 @@
 import { get, post, api } from '../ois'
-import { Course, CourseVersion, CourseListOptions } from './types'
+import { Course, CourseVersion, CourseListOptions } from 'types/ois'
 
 const routes = {
     list: '/',
