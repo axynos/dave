@@ -1,6 +1,10 @@
 import { currentSemester, fullCourseList, latestCourseVersion, courseTimetable, currentAcademicYear } from 'api/ois'
 import { CourseVersion, CourseListOptions } from 'types/ois'
 import { semesterAcademicWeeks } from 'lib/academicWeeks'
+import { getEvent, listEvents } from 'api/google/calendar'
+import { GCAL_DEVELOPMENT, GCAL_PRODUCTION } from 'constants/calendars'
+import { calendar_v3 } from 'googleapis'
+import Schema$Event = calendar_v3.Schema$Event
 
 const sync = async () => {
   const semester = await currentSemester()

@@ -10,6 +10,9 @@
     "noPropertyAccessFromIndexSignature": true,
     "noUncheckedIndexedAccess": true,
     "baseUrl": "src",
+    "paths": {
+      "auth/*": ["../auth/*"]
+    },
     "moduleResolution": "node"
   },
 

@@ -106,10 +106,15 @@ dist
 # Build folders
 */**/build/
 
-# Vim session folders
+# Vim session folders and swap files
 */**/.undodir/
 **/.undodir
+*.swp
 
 # macOS
 */**/.DS_Store
 **/.DS_Store
+
+# Backend auth credentials
+backend/auth/credentials.json
+

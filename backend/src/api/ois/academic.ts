@@ -1,5 +1,5 @@
 import { get, api } from '../ois'
-import { Semester } from 'types/ois'
+import { Semester, AcademicYear } from 'types/ois'
 
 const routes = {
   semesterInfo: '/semester-info',
